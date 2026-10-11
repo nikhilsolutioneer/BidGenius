@@ -1,0 +1,34 @@
+import { test, expect } from '@playwright/test';
+import AxeBuilder from '@axe-core/playwright';
+
+test('scenarios expose inline sliders and update the main strategy cards without a dialog', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto('/');
+  await page.getByRole('navigation').getByRole('button', { name: 'Scenarios', exact: true }).click();
+  await expect(page.locator('.scenario-current-price')).toBeVisible();
+  const curve = (await page.locator('.scenario-curve').boundingBox())!;
+  const price = (await page.locator('.scenario-current-price').boundingBox())!;
+  const strategies = (await page.locator('.scenario-grid').boundingBox())!;
+  expect(Math.abs(curve.y - price.y)).toBeLessThan(2);
+  expect(strategies.y).toBeGreaterThanOrEqual(curve.y + curve.height);
+  expect(await page.locator('.scenario-card').evaluateAll(cards => cards.every(card => card.scrollWidth <= card.clientWidth + 1 && card.scrollHeight <= card.clientHeight + 1))).toBeTruthy();
+  await page.screenshot({ path: 'test-artifacts/no-scroll/scenarios-redesign-1440x900.png' });
+  await expect(page.locator('.scenario-live-controls .whatif-controls')).toBeVisible();
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  const savedPrices = await page.locator('.scenario-card .scenario-price').allTextContents();
+  const slider = page.locator('#whatif-site_efficiency');
+  await slider.focus();
+  await page.keyboard.press('ArrowRight');
+  await expect(page.locator('.scenario-current-price')).toContainText('PREVIEWED SELLING PRICE', { timeout: 30000 });
+  const previewPrices = await page.locator('.scenario-card .scenario-price').allTextContents();
+  expect(previewPrices.every((price, i) => price !== savedPrices[i])).toBeTruthy();
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await page.screenshot({ path: 'test-artifacts/no-scroll/scenarios-inline-preview.png' });
+  await page.getByRole('button', { name: 'Reset', exact: true }).click();
+  await expect(page.locator('.scenario-current-price')).toContainText('CURRENT SELLING PRICE');
+  await page.locator('.scenario-card').first().getByRole('button', { name: /Use as offer price/ }).click();
+  await expect(page.getByRole('button', { name: 'Confirm offer price' })).toBeDisabled();
+  await page.keyboard.press('Escape');
+  const audit = await new AxeBuilder({ page }).analyze();
+  expect(audit.violations.filter(v => ['serious', 'critical'].includes(v.impact || ''))).toEqual([]);
+});

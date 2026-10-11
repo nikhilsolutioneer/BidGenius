@@ -1,0 +1,1481 @@
+{
+  "evaluation_mode": "Actual local parser and matching; no LLM used; fixtures are evaluation-only",
+  "evaluated_at": "2026-10-10T20:41:18.549049+00:00",
+  "parser_version": "local-1.6",
+  "source_sha256": "d072092b1c619584666ea4368745382585c4db43eb2e9b38633c058ed62dab06",
+  "holdout_sha256": "933f23b1d57e51df0b3fa1f51ef2198aa1e72021b0453955871f4437b9652903",
+  "source": "BKP_244_LV_Lueftung_260804.pdf",
+  "elapsed_seconds": 44.413,
+  "pages_processed": 202,
+  "page_status_counts": {
+    "parsed": 201,
+    "partial": 1
+  },
+  "positions_extracted": 679,
+  "position_system_counts": {
+    "LA01": 117,
+    "LA02": 147,
+    "LA03": 137,
+    "LA04": 168,
+    "LA05": 105,
+    "ROOF": 5
+  },
+  "unassigned_blocks": 11,
+  "batch_errors": [
+    "Page 201: partial"
+  ],
+  "verified_examples": {
+    "label": "Supplied 22 examples",
+    "expected_rows": 22,
+    "detected_rows": 22,
+    "detection_recall": 1.0,
+    "quantity_and_unit": {
+      "correct": 22,
+      "total": 22,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "catalogue_reference": {
+      "correct": 22,
+      "total": 22,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "system_assignment": {
+      "correct": 22,
+      "total": 22,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "complete_row": {
+      "correct": 22,
+      "total": 22,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "matched_reference_rows": 22,
+    "expected_unmatched_rows": 0,
+    "results": [
+      {
+        "id": "LV0001",
+        "page": 78,
+        "source_snippet": "Grösse Ø 10 cm Stk 5",
+        "expected": {
+          "system": "LA01",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-933f666fbd8da1b7c841",
+          "system": "LA01",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Zuluft - Tellerventil · Grösse Ø 10 cm Stk 5"
+        }
+      },
+      {
+        "id": "LV0002",
+        "page": 78,
+        "source_snippet": "Ø 12.5 cm Stk 6",
+        "expected": {
+          "system": "LA01",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-AIR-002"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-56c9cfd4b1816a09a4e7",
+          "system": "LA01",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-AIR-002",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Zuluft - Tellerventil · Ø 12.5 cm Stk 6"
+        }
+      },
+      {
+        "id": "LV0003",
+        "page": 79,
+        "source_snippet": "Grösse Ø 10 cm Stk 5",
+        "expected": {
+          "system": "LA01",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-78cd8a546f479b43a154",
+          "system": "LA01",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-003",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Abluft - Tellerventil · Grösse Ø 10 cm Stk 5"
+        }
+      },
+      {
+        "id": "LV0004",
+        "page": 79,
+        "source_snippet": "Grösse (B x H) 10 Ø cm Stk 4",
+        "expected": {
+          "system": "LA01",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FIR-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-c8fc0c022a744950682d",
+          "system": "LA01",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FIR-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Brandschutzklappen eingemauert · Grösse (B x H) 10 Ø cm Stk 4"
+        }
+      },
+      {
+        "id": "LV0005",
+        "page": 80,
+        "source_snippet": "Grösse Ø 12.5 cm Stk 6",
+        "expected": {
+          "system": "LA01",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-DAM-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-e0e7a77861227f22e73b",
+          "system": "LA01",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-DAM-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Drosselklappen · Grösse Ø 12.5 cm Stk 6"
+        }
+      },
+      {
+        "id": "LV0006",
+        "page": 80,
+        "source_snippet": "Druckverlust 30Pa Stk 4",
+        "expected": {
+          "system": "LA01",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-SIL-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-1d8e16b44b0e21399c72",
+          "system": "LA01",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-SIL-001",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Schalldämpfer · Druckverlust 30Pa Stk 4"
+        }
+      },
+      {
+        "id": "LV0007",
+        "page": 106,
+        "source_snippet": "BM0 50x30 1217 3100 500 Stk 4",
+        "expected": {
+          "system": "LA02",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-VAV-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-6b4ff64576338d534a5e",
+          "system": "LA02",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-VAV-001",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Variabler Volumenstromregler eckig · BM0 50x30 1217 3100 500 Stk 4"
+        }
+      },
+      {
+        "id": "LV0008",
+        "page": 107,
+        "source_snippet": "250 100 150 Stk 6",
+        "expected": {
+          "system": "LA02",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-CAV-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-643661cbb44d525f8434",
+          "system": "LA02",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-CAV-001",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Einkanal-Volumenstromregler für konstanten Vol.strom · "
+        }
+      },
+      {
+        "id": "LV0009",
+        "page": 107,
+        "source_snippet": "100 10 28.5x20.5 27 Stk 6",
+        "expected": {
+          "system": "LA02",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-SIL-002"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-37ceae4b23177c1d63be",
+          "system": "LA02",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-SIL-002",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Kompaktschalldämpfer · 100 10 28.5x20.5 27 Stk 6"
+        }
+      },
+      {
+        "id": "LV0010",
+        "page": 107,
+        "source_snippet": "Druckverlust 21Pa Stk 4",
+        "expected": {
+          "system": "LA02",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-SIL-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-8721179ba317654aa941",
+          "system": "LA02",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-SIL-003",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Kanalschalldämpfer · Druckverlust 21Pa Stk 4"
+        }
+      },
+      {
+        "id": "LV0011",
+        "page": 163,
+        "source_snippet": "Druckverlust 33Pa Stk 6",
+        "expected": {
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-SIL-004"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-90044af0238913e51b78",
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-SIL-004",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Schalldämpfer · Druckverlust 33Pa Stk 6"
+        }
+      },
+      {
+        "id": "LV0012",
+        "page": 163,
+        "source_snippet": "TVJ-D 30x20 800 1600 300 Stk 6",
+        "expected": {
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-VAV-002"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-87e78cb8c7107ce722d1",
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-VAV-002",
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Einkanal-Volumenstromregler für variable ZUL und ABL · TVJ-D 30x20 800 1600 300 Stk 6"
+        }
+      },
+      {
+        "id": "LV0013",
+        "page": 164,
+        "source_snippet": "TVR-D 12.5 60 200 150 Stk 10",
+        "expected": {
+          "system": "LA04",
+          "quantity": "10",
+          "unit": "pc",
+          "product_id": "P-VAV-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-7a7c58269785a06bf46c",
+          "system": "LA04",
+          "quantity": "10",
+          "unit": "pc",
+          "product_id": "P-VAV-003",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Fabrikat z.B. Trox Hesco · TVR-D 12.5 60 200 150 Stk 10"
+        }
+      },
+      {
+        "id": "LV0014",
+        "page": 164,
+        "source_snippet": "TVR-D 16 120 400 150 Stk 6",
+        "expected": {
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-VAV-004"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-656c0507d622f5373b68",
+          "system": "LA04",
+          "quantity": "6",
+          "unit": "pc",
+          "product_id": "P-VAV-004",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Fabrikat z.B. Trox Hesco · TVR-D 16 120 400 150 Stk 6"
+        }
+      },
+      {
+        "id": "LV0015",
+        "page": 164,
+        "source_snippet": "TVR-D 20 180 600 150 Stk 12",
+        "expected": {
+          "system": "LA04",
+          "quantity": "12",
+          "unit": "pc",
+          "product_id": "P-VAV-005"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-1a12b5d3379170e45730",
+          "system": "LA04",
+          "quantity": "12",
+          "unit": "pc",
+          "product_id": "P-VAV-005",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Fabrikat z.B. Trox Hesco · TVR-D 20 180 600 150 Stk 12"
+        }
+      },
+      {
+        "id": "LV0016",
+        "page": 169,
+        "source_snippet": "mit Alu-Folie, gestiftet m2 52",
+        "expected": {
+          "system": "LA04",
+          "quantity": "52",
+          "unit": "m2",
+          "product_id": "P-INS-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-2251936bb9d1df127de1",
+          "system": "LA04",
+          "quantity": "52",
+          "unit": "m2",
+          "product_id": "P-INS-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Thermische Aussendämmung 30/5 · mit Alu-Folie, gestiftet m2 52"
+        }
+      },
+      {
+        "id": "LV0017",
+        "page": 169,
+        "source_snippet": "mit Alu-Folie, gestiftet m2 12",
+        "expected": {
+          "system": "LA04",
+          "quantity": "12",
+          "unit": "m2",
+          "product_id": "P-INS-002"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-95edc2d798b265bf36a4",
+          "system": "LA04",
+          "quantity": "12",
+          "unit": "m2",
+          "product_id": "P-INS-002",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Thermische Aussendämmung 60/10 · mit Alu-Folie, gestiftet m2 12"
+        }
+      },
+      {
+        "id": "LV0018",
+        "page": 169,
+        "source_snippet": "Wetterfeste Ummantelung V2A inkl. Abdichtung m2 440",
+        "expected": {
+          "system": "LA04",
+          "quantity": "440",
+          "unit": "m2",
+          "product_id": "P-INS-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-5fbbcdfcfade5a801df4",
+          "system": "LA04",
+          "quantity": "440",
+          "unit": "m2",
+          "product_id": "P-INS-003",
+          "evidence_band": "strong",
+          "status": "supplier_quote_required",
+          "description": "Doppelwandige Blechkanäle mit Ummantelung in V2A · Wetterfeste Ummantelung V2A inkl. Abdichtung m2 440"
+        }
+      },
+      {
+        "id": "LV0019",
+        "page": 170,
+        "source_snippet": "300 x 200 Stk 4",
+        "expected": {
+          "system": "LA04",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FIR-002"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-39031c71ac5f416fc102",
+          "system": "LA04",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FIR-002",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Durchdringungen durch brandabschnittsbildende Decken · 300 x 200 Stk 4"
+        }
+      },
+      {
+        "id": "LV0020",
+        "page": 170,
+        "source_snippet": "Grösse 16 Ø cm Stk 8",
+        "expected": {
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FIR-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-0f9d47548b430d5f2a09",
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FIR-003",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Durchdringungen durch brandabschnittsbildende Wände · Grösse 16 Ø cm Stk 8"
+        }
+      },
+      {
+        "id": "LV0021",
+        "page": 171,
+        "source_snippet": "Anzahl Durchführungen Stk 8",
+        "expected": {
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-SUP-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-0ca307d149c236efdaf0",
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-SUP-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Anschlusswinkle für Befestigung an Wand oder Decke · Anzahl Durchführungen Stk 8"
+        }
+      },
+      {
+        "id": "LV0022",
+        "page": 171,
+        "source_snippet": "400 x 200 Stk 8",
+        "expected": {
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FIR-004"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-d91723ae86158859f2e3",
+          "system": "LA04",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FIR-004",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Revisisondeckel bei BS-Dämmungen · 400 x 200 Stk 8"
+        }
+      }
+    ],
+    "limitations": "Source-anchored recall on annotated rows only; this does not measure full-tender precision, completeness, technical equivalence, or pricing accuracy. Detection candidates are selected without consulting the expected quantity or product."
+  },
+  "independent_holdout": {
+    "label": "29 manually annotated rows outside the supplied examples",
+    "expected_rows": 29,
+    "detected_rows": 29,
+    "detection_recall": 1.0,
+    "quantity_and_unit": {
+      "correct": 29,
+      "total": 29,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "catalogue_reference": {
+      "correct": 29,
+      "total": 29,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "system_assignment": {
+      "correct": 29,
+      "total": 29,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "complete_row": {
+      "correct": 29,
+      "total": 29,
+      "rate": 1.0,
+      "among_detected_rate": 1.0
+    },
+    "matched_reference_rows": 18,
+    "expected_unmatched_rows": 11,
+    "results": [
+      {
+        "id": "H001",
+        "page": 75,
+        "source_snippet": "2342L Luftleitung 1000 800",
+        "expected": {
+          "system": "LA01",
+          "quantity": "8.4312",
+          "unit": "m2",
+          "product_id": "P-DCT-X-1000x800"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-301bcbc4764467a29b42",
+          "system": "LA01",
+          "quantity": "8.4312",
+          "unit": "m2",
+          "product_id": "P-DCT-X-1000x800",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Luftleitung 1000 800"
+        }
+      },
+      {
+        "id": "H002",
+        "page": 75,
+        "source_snippet": "3938L Luftleitung 150 500",
+        "expected": {
+          "system": "LA01",
+          "quantity": "5.1194",
+          "unit": "m2",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-0c96f2cd3d5c7f2cf491",
+          "system": "LA01",
+          "quantity": "5.1194",
+          "unit": "m2",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Luftleitung 150 500"
+        }
+      },
+      {
+        "id": "H003",
+        "page": 76,
+        "source_snippet": "33860R-R Wickelfalzrohr 100",
+        "expected": {
+          "system": "LA01",
+          "quantity": "33.860",
+          "unit": "m",
+          "product_id": "P-DCT-R-100"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-050dec3b0d7341612741",
+          "system": "LA01",
+          "quantity": "33.86",
+          "unit": "m",
+          "product_id": "P-DCT-R-100",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 100"
+        }
+      },
+      {
+        "id": "H004",
+        "page": 76,
+        "source_snippet": "8BGE Bogen 100 90",
+        "expected": {
+          "system": "LA01",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FTG-B-100-90"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-e9c086ad2040649c4179",
+          "system": "LA01",
+          "quantity": "8",
+          "unit": "pc",
+          "product_id": "P-FTG-B-100-90",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 100 90"
+        }
+      },
+      {
+        "id": "H005",
+        "page": 76,
+        "source_snippet": "2DRE Enddeckel 160",
+        "expected": {
+          "system": "LA01",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-c3942c75dbcf6a35d558",
+          "system": "LA01",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Enddeckel 160"
+        }
+      },
+      {
+        "id": "H006",
+        "page": 99,
+        "source_snippet": "12540R-R Wickelfalzrohr 100Einlage",
+        "expected": {
+          "system": "LA02",
+          "quantity": "12.540",
+          "unit": "m",
+          "product_id": "P-DCT-R-100"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-a07eaef1364ac5779cb6",
+          "system": "LA02",
+          "quantity": "12.54",
+          "unit": "m",
+          "product_id": "P-DCT-R-100",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 100Einlage"
+        }
+      },
+      {
+        "id": "H007",
+        "page": 99,
+        "source_snippet": "80899R-R Wickelfalzrohr 125Einlage",
+        "expected": {
+          "system": "LA02",
+          "quantity": "80.899",
+          "unit": "m",
+          "product_id": "P-DCT-R-125"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-057b47f0c2b5639df9e8",
+          "system": "LA02",
+          "quantity": "80.899",
+          "unit": "m",
+          "product_id": "P-DCT-R-125",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 125Einlage"
+        }
+      },
+      {
+        "id": "H008",
+        "page": 99,
+        "source_snippet": "7945R-R Wickelfalzrohr 125",
+        "expected": {
+          "system": "LA02",
+          "quantity": "7.945",
+          "unit": "m",
+          "product_id": "P-DCT-R-125"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-c22cca03e5522f82c9ab",
+          "system": "LA02",
+          "quantity": "7.945",
+          "unit": "m",
+          "product_id": "P-DCT-R-125",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 125"
+        }
+      },
+      {
+        "id": "H009",
+        "page": 99,
+        "source_snippet": "14BGE Bogen 125 90Einlage",
+        "expected": {
+          "system": "LA02",
+          "quantity": "14",
+          "unit": "pc",
+          "product_id": "P-FTG-B-125-90"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-701415af26e508b5655f",
+          "system": "LA02",
+          "quantity": "14",
+          "unit": "pc",
+          "product_id": "P-FTG-B-125-90",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 125 90Einlage"
+        }
+      },
+      {
+        "id": "H010",
+        "page": 105,
+        "source_snippet": "Grösse Ø 10 cm Stk 5",
+        "expected": {
+          "system": "LA02",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-001"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-27f593c680fe05bdf88b",
+          "system": "LA02",
+          "quantity": "5",
+          "unit": "pc",
+          "product_id": "P-AIR-001",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Zuluft - Tellerventil · Grösse Ø 10 cm Stk 5"
+        }
+      },
+      {
+        "id": "H011",
+        "page": 105,
+        "source_snippet": "Ø 16 cm Stk 3",
+        "expected": {
+          "system": "LA02",
+          "quantity": "3",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-eed30fa2d7f5cad5bb5b",
+          "system": "LA02",
+          "quantity": "3",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Zuluft - Tellerventil · Ø 16 cm Stk 3"
+        }
+      },
+      {
+        "id": "H012",
+        "page": 131,
+        "source_snippet": "1309L Luftleitung 300 400",
+        "expected": {
+          "system": "LA03",
+          "quantity": "1.8326",
+          "unit": "m2",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-4673f38b5d18c2a738d8",
+          "system": "LA03",
+          "quantity": "1.8326",
+          "unit": "m2",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Luftleitung 300 400"
+        }
+      },
+      {
+        "id": "H013",
+        "page": 132,
+        "source_snippet": "11800R-R Wickelfalzrohr 100",
+        "expected": {
+          "system": "LA03",
+          "quantity": "11.800",
+          "unit": "m",
+          "product_id": "P-DCT-R-100"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-04b678c2646808de7377",
+          "system": "LA03",
+          "quantity": "11.8",
+          "unit": "m",
+          "product_id": "P-DCT-R-100",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 100"
+        }
+      },
+      {
+        "id": "H014",
+        "page": 132,
+        "source_snippet": "7408R-R Wickelfalzrohr 125",
+        "expected": {
+          "system": "LA03",
+          "quantity": "7.408",
+          "unit": "m",
+          "product_id": "P-DCT-R-125"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-754c10ac639814b2f526",
+          "system": "LA03",
+          "quantity": "7.408",
+          "unit": "m",
+          "product_id": "P-DCT-R-125",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 125"
+        }
+      },
+      {
+        "id": "H015",
+        "page": 132,
+        "source_snippet": "4BGE Bogen 160 90",
+        "expected": {
+          "system": "LA03",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FTG-B-160-90"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-7c2646c701e382e72645",
+          "system": "LA03",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FTG-B-160-90",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 160 90"
+        }
+      },
+      {
+        "id": "H016",
+        "page": 132,
+        "source_snippet": "2DRE Enddeckel 160",
+        "expected": {
+          "system": "LA03",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-e5c6dcb9c2067b213127",
+          "system": "LA03",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Enddeckel 160"
+        }
+      },
+      {
+        "id": "H017",
+        "page": 158,
+        "source_snippet": "9688R-R Wickelfalzrohr 224",
+        "expected": {
+          "system": "LA04",
+          "quantity": "9.688",
+          "unit": "m",
+          "product_id": "P-DCT-R-224"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-1bf3d065609c35eedb5a",
+          "system": "LA04",
+          "quantity": "9.688",
+          "unit": "m",
+          "product_id": "P-DCT-R-224",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 224"
+        }
+      },
+      {
+        "id": "H018",
+        "page": 158,
+        "source_snippet": "2BGE Bogen 125 30",
+        "expected": {
+          "system": "LA04",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": "P-FTG-B-125-30"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-6a17840441c2bbd541ae",
+          "system": "LA04",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": "P-FTG-B-125-30",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 125 30"
+        }
+      },
+      {
+        "id": "H019",
+        "page": 158,
+        "source_snippet": "57BGE Bogen 160 90",
+        "expected": {
+          "system": "LA04",
+          "quantity": "57",
+          "unit": "pc",
+          "product_id": "P-FTG-B-160-90"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-b8e942bb531579439c72",
+          "system": "LA04",
+          "quantity": "57",
+          "unit": "pc",
+          "product_id": "P-FTG-B-160-90",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 160 90"
+        }
+      },
+      {
+        "id": "H020",
+        "page": 160,
+        "source_snippet": "Grösse Ø 10 cm Stk 18",
+        "expected": {
+          "system": "LA04",
+          "quantity": "18",
+          "unit": "pc",
+          "product_id": "P-AIR-003"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-d4ddaf1df88f32b703a4",
+          "system": "LA04",
+          "quantity": "18",
+          "unit": "pc",
+          "product_id": "P-AIR-003",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Abluft - Tellerventil · Grösse Ø 10 cm Stk 18"
+        }
+      },
+      {
+        "id": "H021",
+        "page": 169,
+        "source_snippet": "mit Alu-Folie, gestiftet m2",
+        "expected": {
+          "system": "LA04",
+          "quantity": null,
+          "unit": "m2",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-f15a3e0be6b013066b79",
+          "system": "LA04",
+          "quantity": null,
+          "unit": "m2",
+          "product_id": null,
+          "evidence_band": "partial",
+          "status": "insufficient_information",
+          "description": "Thermische Aussendämmung 100/15 · mit Alu-Folie, gestiftet m2"
+        }
+      },
+      {
+        "id": "H022",
+        "page": 182,
+        "source_snippet": "18802R-R Wickelfalzrohr 315",
+        "expected": {
+          "system": "LA05",
+          "quantity": "18.802",
+          "unit": "m",
+          "product_id": "P-DCT-R-315"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-c4a089aac005002a903e",
+          "system": "LA05",
+          "quantity": "18.802",
+          "unit": "m",
+          "product_id": "P-DCT-R-315",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 315"
+        }
+      },
+      {
+        "id": "H023",
+        "page": 182,
+        "source_snippet": "40300R-R Wickelfalzrohr 200",
+        "expected": {
+          "system": "LA05",
+          "quantity": "40.300",
+          "unit": "m",
+          "product_id": "P-DCT-R-200"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-759d2b00fbb1cccaa5b7",
+          "system": "LA05",
+          "quantity": "40.3",
+          "unit": "m",
+          "product_id": "P-DCT-R-200",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Wickelfalzrohr 200"
+        }
+      },
+      {
+        "id": "H024",
+        "page": 182,
+        "source_snippet": "986L Luftleitung 250 250",
+        "expected": {
+          "system": "LA05",
+          "quantity": "0.986",
+          "unit": "m2",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-a1587fc1825f2f9bcfdd",
+          "system": "LA05",
+          "quantity": "0.986",
+          "unit": "m2",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Luftleitung 250 250"
+        }
+      },
+      {
+        "id": "H025",
+        "page": 183,
+        "source_snippet": "4BGE Bogen 250 90",
+        "expected": {
+          "system": "LA05",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FTG-B-250-90"
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-6193e85a407e2ef7bc15",
+          "system": "LA05",
+          "quantity": "4",
+          "unit": "pc",
+          "product_id": "P-FTG-B-250-90",
+          "evidence_band": "strong",
+          "status": "calculated",
+          "description": "Bogen 250 90"
+        }
+      },
+      {
+        "id": "H026",
+        "page": 183,
+        "source_snippet": "2BGE Bogen 315 90",
+        "expected": {
+          "system": "LA05",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-f1f0eaa9c3efb015a44b",
+          "system": "LA05",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Bogen 315 90"
+        }
+      },
+      {
+        "id": "H027",
+        "page": 188,
+        "source_snippet": "Druckverlust 17Pa Stk 2",
+        "expected": {
+          "system": "LA05",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-7eca59cbf49098437078",
+          "system": "LA05",
+          "quantity": "2",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "conflicting",
+          "status": "review_required",
+          "description": "Schalldämpfer · Druckverlust 17Pa Stk 2"
+        }
+      },
+      {
+        "id": "H028",
+        "page": 197,
+        "source_snippet": "Montagefüsse z.B. Stk 150",
+        "expected": {
+          "system": "ROOF",
+          "quantity": "150",
+          "unit": "pc",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-2629d4251913d5d57e0f",
+          "system": "ROOF",
+          "quantity": "150",
+          "unit": "pc",
+          "product_id": null,
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Montagefüsse z.B. Stk 150"
+        }
+      },
+      {
+        "id": "H029",
+        "page": 197,
+        "source_snippet": "Montageschiene z.B. m 500",
+        "expected": {
+          "system": "ROOF",
+          "quantity": "500",
+          "unit": "m",
+          "product_id": null
+        },
+        "detected": true,
+        "quantity_and_unit_correct": true,
+        "catalogue_reference_correct": true,
+        "system_correct": true,
+        "all_correct": true,
+        "ambiguous_detection_candidates": 1,
+        "actual": {
+          "id": "POS-7a7c63403abae19937e8",
+          "system": "ROOF",
+          "quantity": "500",
+          "unit": "m",
+          "product_id": null,
+          "evidence_band": "partial",
+          "status": "review_required",
+          "description": "Montageschiene z.B. m 500"
+        }
+      }
+    ],
+    "limitations": "Source-anchored recall on annotated rows only; this does not measure full-tender precision, completeness, technical equivalence, or pricing accuracy. Detection candidates are selected without consulting the expected quantity or product."
+  },
+  "holdout_provenance": {
+    "schema_version": "1.0",
+    "purpose": "Evaluation-only manually transcribed source rows outside the 22 supplied examples. Never a production extraction input.",
+    "source_file": "BKP_244_LV_Lueftung_260804.pdf",
+    "annotation_method": "Read the actual PDF's schedule and tender rows; quantities and normalized units are transcribed independently of extraction output. Null product means no dimensionally suitable reference in the supplied catalogue.",
+    "limitations": "Targeted 29-row regression holdout, not a statistically representative full-tender completeness assessment. After its defects are used to improve the parser, this is a regression set rather than untouched generalization evidence. Some annotations share source pages with verified examples but refer to different rows. Strong price reference does not establish technical equivalence."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-10T11:53:09.002294+00:00",
+  "backend": {
+    "passed": 94,
+    "seconds": 36.52
+  },
+  "browser": {
+    "mutating_integration_passed": 2,
+    "read_only_accessibility_passed": 2,
+    "axe_violations_on_tested_views": 0
+  },
+  "source_evaluation": "artifacts/evaluation.json",
+  "prepared_run": "artifacts/prepared-demo.json",
+  "live_openai_tested": false,
+  "reason": "No OPENAI_API_KEY configured",
+  "app_url": "http://127.0.0.1:8000"
+}

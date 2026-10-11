@@ -1,0 +1,95 @@
+{
+  "started_at": "2026-10-10T12:39:54.237739+00:00",
+  "model": "gpt-4o",
+  "phase": "full_tender",
+  "smoke": {
+    "passed": true,
+    "duration_seconds": 4.016,
+    "usage": {
+      "input_tokens": 109,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 18,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 127
+    },
+    "fixture": "Synthetic connectivity fixture; no project data used in this check"
+  },
+  "project_id": "project_179adf36d5f14e7e",
+  "run_id": "run_f06fcfffe69d4221",
+  "run": {
+    "id": "run_f06fcfffe69d4221",
+    "project_id": "project_179adf36d5f14e7e",
+    "status": "awaiting_review",
+    "stage": "review",
+    "pages_processed": 202,
+    "total_pages": 202,
+    "batches_done": 53,
+    "batches_total": 53,
+    "positions_found": 740,
+    "errors": [
+      "AI unavailable for pages 29–32 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 65–66 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 83–86 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 101–104 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 105–108 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 113–116 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 135–138 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 143–146 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 159–162 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 167–170 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 178–181 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 182–185 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 186–189 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 190–193 (ValueError); local extraction retained for review.",
+      "AI unavailable for pages 196–199 (ValueError); local extraction retained for review.",
+      "Page 201: partial"
+    ],
+    "extraction_mode": "mixed",
+    "model": "gpt-4o",
+    "prompt_version": "1.0",
+    "schema_version": "1.0",
+    "parser_version": "local-1.1",
+    "started_at": "2026-10-10T12:39:58.537948+00:00",
+    "updated_at": "2026-10-10T13:06:51.735824+00:00",
+    "completed_at": null,
+    "duration_seconds": 1613.198,
+    "usage": {
+      "repair_attempts": 22,
+      "usage_unavailable_attempts": 0,
+      "input_tokens": 1041020,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 59520
+      },
+      "output_tokens": 273999,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1315019,
+      "successful_ai_batches": 38,
+      "cached_batches": 0,
+      "failed_ai_batches": 15
+    },
+    "cancellation_requested": false
+  },
+  "cancellation_requested_at_pages": 10,
+  "cancelled_at_pages": 10,
+  "resume_requested": true,
+  "restarted_at": "2026-10-10T12:44:33.647223+00:00",
+  "pre_restart_known_usage_not_in_run_counter": {
+    "input_tokens": 15648,
+    "output_tokens": 6929,
+    "total_tokens": 22577
+  },
+  "adapter_restart_note": "First persisted batches used the earlier adapter; resumed batches use final approval-gated refinements. No prices were approved by the model.",
+  "restart_preserved_pages": 28,
+  "restart_preserved_batches": 7,
+  "restart_resume_requested": true,
+  "completed_snapshot_at": "2026-10-10T13:07:13.954128+00:00",
+  "accounting_note": "Run usage is the server counter. Add pre_restart_known_usage_not_in_run_counter and the separately recorded diagnostic request when reconciling provider billing."
+}

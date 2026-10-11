@@ -1,0 +1,6909 @@
+[
+  {
+    "text": "ESTIMATOR INTELLIGENCE",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "See the cost. Find the gaps.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Understand what drives the offer and where to focus your next decision.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Test assumptions",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Included-scope offer",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Saved indicative price · before VAT",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced benchmark exposure",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Not available",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Advisory range · excluded from the offer",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Still without a benchmark basis",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "positions",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\App.tsx",
+      "src\\charts\\HBar.tsx",
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unknown exposure remains outside the range",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "carries the largest allocated cost at",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": ". Start here for cost optimisation; use unpriced allowances to prioritise quotations.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Review cost drivers and unresolved scope before committing to an offer.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Review positions",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Material & labour cost mix",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "How much scope is priced?",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "How the estimate adds up",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Read the balance of cost and the extent of unresolved scope.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Cost and coverage chart",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Cost mix",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Pricing coverage",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Cost build-up",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Material and labour cost mix",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Known cost",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Known material and labour only. Other allowances, overhead, margin and unpriced scope are excluded.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Material",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Estimate.tsx",
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Labour",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Estimate.tsx",
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Pricing coverage by position count",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Positions",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "Position counts, not value shares. Unpriced positions are unknown costs, not zero costs.",
+    "files": [
+      "src\\Analytics.tsx"
+    ]
+  },
+  {
+    "text": "Priced",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "{0} positions",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Covered elsewhere",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced",
+    "files": [
+      "src\\Analytics.tsx",
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Local estimator",
+    "files": [
+      "src\\api.ts",
+      "src\\App.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "CHF {0}",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Airflow (m³/h)",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Width (mm)",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Height (mm)",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Diameter (mm)",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Angle (°)",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Fire rating",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Large air handling unit",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Rectangular duct installation",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Round duct installation",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Duct fitting installation",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Straight duct catalogue area rate",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "LT fitting area-rate assumption",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "LT fitting area factor",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Draft estimate",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Estimate basis",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Similar catalogue item",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Rate from similar catalogue item",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Source lines",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Text not yet assigned to a position",
+    "files": [
+      "src\\api.ts",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unit: m²",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Europe/Zurich",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Not yet processed",
+    "files": [
+      "src\\api.ts"
+    ]
+  },
+  {
+    "text": "Local extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local first, then AI for gaps",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local and AI extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "local extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Step 1 of 2 · {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "ai review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Step 2 of 2 · {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "selecting unresolved items for AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Step 2 of 2 · Selecting unresolved items for AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Unresolved positions selected for AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Source blocks selected for AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Positions added by AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI refinements for review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI review batches skipped",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Successful AI review batches",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Failed AI review batches",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI review batches reused from cache",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Draft",
+    "files": [
+      "src\\App.tsx",
+      "src\\Management.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Ready for review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Approved",
+    "files": [
+      "src\\App.tsx",
+      "src\\Management.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Submitted",
+    "files": [
+      "src\\App.tsx",
+      "src\\Management.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Management",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Estimator",
+    "files": [
+      "src\\App.tsx",
+      "src\\Assistant.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Why move this bid from {0} to {1}?",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Status updated to {0}.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Could not connect to the local server. {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing finished. Your estimate is ready for review.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing {0}.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "No project selected.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Revision {0} saved{1}{2}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "/ Cost change {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "/ Offer change {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Reverse this decision",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Create a reversing revision for: {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Accept position review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Confirm the reviewed quantity, pricing basis, and assumptions. Technical equivalence remains a separate decision.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Approve commercial adjustment",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Reject commercial adjustment",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "The approved amount will enter the cost build-up.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "This amount will be excluded from the estimate.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resume saved processing",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Complete estimator review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Continue from the persisted checkpoint. Completed batches will be retained.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "The backend checks unresolved blockers before completing review.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Overview",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Estimate",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Analytics",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Scenarios",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Export",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Variant name",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0} — variant",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Estimator name",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "My workspace",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Equans Switzerland",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "bid",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Price Smarter.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Bid Better.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Win More.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "— Powered by AI.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Intelligent tendering for the built environment",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "WELCOME BACK",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Enter your workspace",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Choose your access level to continue.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Admin name",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Enter admin name",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Enter your name",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Admin user",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Open workspace",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Demo access · production uses Entra ID",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BidGenius AI overview",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BG",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BidGenius",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "sidebar-workspace {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Equans organization",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Built for Equans estimators",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local environment",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "All estimators",
+    "files": [
+      "src\\App.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "bids",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "WORKSPACE",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Main navigation",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "nav-item {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "PROJECT",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Import tender",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Saved projects",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local storage · AI sees selected excerpts only (store=false)",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Fully local · no AI calls",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI interprets selected excerpts. You control every decision.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local parsing is available. Connect AI when you need it.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Organization",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Tender workspace",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "New estimate",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Revision",
+    "files": [
+      "src\\App.tsx",
+      "src\\Estimate.tsx",
+      "src\\ScenarioExport.tsx",
+      "src\\WhatIf.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "saved",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "connection-dot {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI configured",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local mode",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Open profile menu",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Manage profile",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Sign out",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "pages · BKP 244",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "bid-status-control bid-status-{0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Bid status",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Prepared demo ·",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing record",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Run details",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Export estimate",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Dismiss error",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Opening your local workspace…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0}/{1} AI review batches · {2} positions found locally",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0}/{1} pages · {2}/{3} {4}batches",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI review progress",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Document extraction progress",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "View progress",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": ". Completed work has been retained.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resume",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Review tender requirement",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Preparing your estimate workspace…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Updating workspace…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Dismiss notification",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Projects and estimate revisions persist on this computer.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "No projects yet. Import a package or load Oberglatt to get started.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Prepared demo · {0} ·",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Duplicate as variant",
+    "files": [
+      "src\\App.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Import project",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Saved progress and results from this processing run.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Pages processed",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local batches completed",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Batches completed",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Positions recorded in this run",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Each local batch contains up to 4 pages from the same system section.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Current estimate:",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "added manually). The run count is a saved snapshot; later edits appear in Overview.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Started",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "· Completed {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Measured processing time:",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "seconds.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Model from cached review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Configured review model",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Model used",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI was not enabled for this run.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing usage",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local and cached batches describe processing work. Tokens measure text sent to and returned by the AI model.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0} entries",
+    "files": [
+      "src\\App.tsx",
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "Completed runs are previously processed results. Local edits, recalculation, and export remain available offline.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "No processing run recorded.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Cancellation requested at the next safe boundary.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Stop processing",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Complete review",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resume saved run",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Process again",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Close",
+    "files": [
+      "src\\App.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Processing options",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Extract the full document locally, with optional AI review of unresolved items. Calculations always run locally.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "1. Local document extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Extract supported schedules without an external service. Ambiguous scope stays visible for review.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Available",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "To enable AI, set OPENAI_API_KEY in the local .env file and restart the server. The key never enters the browser.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Configured model:",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "A new run reprocesses source positions. Recorded estimator decisions remain in the project history.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Start processing",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resolve review issue",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resolve scope ambiguity",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Include: supply and install",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Install only: labour; material zero",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Exclude: by others",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Waiting for local extraction to finish.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Selecting unresolved items for AI review.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "No unresolved items eligible for AI review. No AI calls were made.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI review has not started. No AI calls were made.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI review did not complete successfully. Local results are retained.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0}/{1} review batches completed. {2} successful calls, {3} reused from cache, {4} failed.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Processing phases",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "1. Local extraction",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "batches processed across the full document.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "{0} positions found locally",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Identifying positions without AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "2. AI review of unresolved items",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "unresolved positions ·",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "source blocks selected",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "positions added ·",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Only extraction gaps go to AI with relevant source excerpts, local findings, and the missing details. AI results require estimator review.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "mode-option {0}",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Review unresolved items with AI",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Restart the app after the current run finishes to enable AI review of unresolved items.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "First extract the full document locally. Then send only unidentified or incomplete items, relevant source excerpts, and local findings to AI. Clear items stay local.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BUILT FOR THE ESTIMATOR",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "From tender",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "to",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "defensible offer.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Turn complex tender documents into a transparent first estimate. Trace every number, resolve uncertainty, and make the commercial decisions that matter.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Opening Oberglatt…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Explore the Oberglatt tender",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Import package",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local-first workspace",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Evidence at every step",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "PRIMARY SCHOOL OBERGLATT",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BKP 244",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Architectural line illustration of a school building",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Roboto",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "VENTILATION SYSTEMS",
+    "files": [
+      "src\\App.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "EVIDENCE-LED TAKEOFF",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Source → quantity → price",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "One connected, reviewable estimate",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Original tender",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Catalogue",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Installation rules",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Understand the scope",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Process the full tender and preserve original German evidence.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Build the estimate",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Connect catalogue references, installation rules, and transparent costs.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Review with confidence",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Resolve contradictions, record assumptions, and export the proof.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "BIDGENIUS AI · ESTIMATOR WORKSPACE",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Local infrastructure. Human judgment.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Import a tender package",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Choose the ZIP package, or the PDF and reference files together.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Choose your tender files",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "ZIP, PDF, catalogue CSV, productivity CSV, project JSON",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "KB",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "AI is not configured. This package will be processed locally.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Original files remain unchanged. The server validates the package before local extraction begins.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Cancel",
+    "files": [
+      "src\\App.tsx",
+      "src\\Dialogs.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Importing…",
+    "files": [
+      "src\\App.tsx",
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Import and process",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Include (supply + install)",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Install only (labour)",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Exclude (by others)",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Source evidence",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Inspect page",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Original PDF",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Loading evidence…",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "This issue refers to package completeness or an estimator assumption.",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Leave unresolved",
+    "files": [
+      "src\\App.tsx"
+    ]
+  },
+  {
+    "text": "Mark reviewed",
+    "files": [
+      "src\\App.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Explain this price",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "What should I review first?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Why is so much unpriced?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Explain this calculation",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Is this match reliable?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Show me the source text",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Compare the three bids",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "What does Target margin mean here?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "What's in the review package?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Is this ready to send?",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Escape",
+    "files": [
+      "src\\Assistant.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Hi {0}, I’m your Bid Assistant.",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Here’s your five-step estimator tour, {0}: 1. Overview — review headline price, baseline, coverage, and unresolved causes. 2. Estimate — inspect quantity, calculation, match confidence, and history. 3. Source PDF — verify the German tender wording and evidence page. 4. What-if — test assumptions; applying a change needs a reason and creates a revision. 5. Export — check the review package before sending.",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Assistant unavailable ({0}).",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "I could not find that in the selected tender.",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "assistant-launcher {0}",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Ask BidGenius",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "BidGenius Assistant for {0}",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Equans",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "BidGenius Assistant",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Offline help mode",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Ready for {0}",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "New chat",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Close assistant",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Hi",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": ", I’m your bid copilot.",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "I can explain the selected tender, find positions, and guide you through review. Ask a question or start the five-step tour.",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Take the tour",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "assistant-message {0}",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Copy answer",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Share answer",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Ask about this estimate…",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Message BidGenius Assistant",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "Send message",
+    "files": [
+      "src\\Assistant.tsx"
+    ]
+  },
+  {
+    "text": "View data",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx"
+    ]
+  },
+  {
+    "text": "Expand chart",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx"
+    ]
+  },
+  {
+    "text": "Expand ↗",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx"
+    ]
+  },
+  {
+    "text": "Expanded view",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx"
+    ]
+  },
+  {
+    "text": "Chart",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Table",
+    "files": [
+      "src\\charts\\ChartTableToggle.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Scenario curve is not available for this revision.",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Price vs illustrative win probability. Each price uses its strategy margin.",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Point",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Price",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Margin",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Win probability",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Expected contribution",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx",
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Price versus illustrative win probability",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Price versus illustrative win probability curve.",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "{0} · {1}% margin · {2}% win probability",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "scenario heuristic sampled by backend",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Illustrative heuristic from project parameters - not a calibrated prediction.",
+    "files": [
+      "src\\charts\\CurveWithPoints.tsx"
+    ]
+  },
+  {
+    "text": "Category",
+    "files": [
+      "src\\charts\\Donut.tsx",
+      "src\\Dialogs.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Share",
+    "files": [
+      "src\\charts\\Donut.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "No data",
+    "files": [
+      "src\\charts\\Donut.tsx"
+    ]
+  },
+  {
+    "text": "Cost concentration by system",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Largest unpriced benchmark allowances",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced positions by system",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Focus cost optimisation on the largest allocated system costs. Unpriced scope is not included.",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Prioritise quotations for the ten largest median benchmark gaps. Advisory only, not included in the bid. Positions without a basis are excluded, not valued at zero.",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Focus estimating effort on systems with the most unresolved positions. Counts show workload, not financial exposure.",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "{0} positions · {1} unpriced",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Estimator chart",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Cost by system",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced exposure",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Review workload",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "System / reference",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Details",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced positions",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "No data available for this chart.",
+    "files": [
+      "src\\charts\\EstimatorCharts.tsx"
+    ]
+  },
+  {
+    "text": "CHF at stake by review cause. Causes may overlap.",
+    "files": [
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "Cause",
+    "files": [
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "CHF at stake",
+    "files": [
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "CHF at stake by review cause",
+    "files": [
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "{0} · {1} positions",
+    "files": [
+      "src\\charts\\HBar.tsx"
+    ]
+  },
+  {
+    "text": "Priced included scope",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "included-scope selling price",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "+{0} to +{1}",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "allowance low to high; commercial assumptions are applied separately",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Exposure chart. Included selling price {0} and unpriced benchmark exposure {1} to {2}. Commercial assumptions are applied separately.",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Segment",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Value",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx",
+      "src\\charts\\Waterfall.tsx",
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "Included selling price",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Exposure low",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Exposure median",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Exposure high",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Price confidence. Priced {0}. Unpriced range {1} to {2}.",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Exposure chart: included selling price {0} plus benchmark exposure {1} to {2}. Commercial assumptions are applied separately.",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Included price and benchmark exposure",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Benchmark exposure +",
+    "files": [
+      "src\\charts\\StackedRangeBar.tsx"
+    ]
+  },
+  {
+    "text": "Which assumption moves the price. Offer-price deltas around zero.",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Assumption",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Down step",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Up step",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Which assumption moves the price",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Calculating price sensitivity…",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Price sensitivity could not be loaded.",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Retry",
+    "files": [
+      "src\\charts\\Tornado.tsx",
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "No sensitivity results are available for this revision.",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Show top 5",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Show all {0}",
+    "files": [
+      "src\\charts\\Tornado.tsx"
+    ]
+  },
+  {
+    "text": "Cost baseline",
+    "files": [
+      "src\\charts\\Waterfall.tsx",
+      "src\\Overview.tsx",
+      "src\\ScenarioExport.tsx",
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Saved calculated total",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Offer price",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Cost build-up lines and final offer price {0}. Subtotals may overlap; do not sum all lines.",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Step",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Formula",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Cost build-up ending at {0}",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Final offer price",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "Build-up lines can include subtotals. Totals above are calculated from the saved estimate.",
+    "files": [
+      "src\\charts\\Waterfall.tsx"
+    ]
+  },
+  {
+    "text": "A reason is required to import historical records.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical evidence & capacity",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Use real comparable projects and reviewed capacity inputs. Missing data stays missing.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Loading commercial evidence…",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Import historical bids from CSV",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Required columns:",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "record_id, project_name, currency, bid_amount, outcome",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": ". Outcomes: won, lost, unknown. Only CHF records are eligible for financial comparison.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Optional: project_date, scope_description, estimated_baseline, winning_price, installation_hours. No automatic currency conversion or scope normalization is applied.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical bid CSV",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "valid records",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "duplicates ·",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "errors",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Resolve import errors",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Duplicate records",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical import preview",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Record / project",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Bid",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Outcome",
+    "files": [
+      "src\\CommercialContext.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Showing the first 20 preview rows of",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical import reason",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Source and relevance of these records",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Import reviewed records",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Comparable projects",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "No historical bid records have been imported. Scenario probabilities remain supplied heuristics.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Select records whose scope is comparable. Selection alone does not change the probability or reference price.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Select historical comparable projects",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Select",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Project / scope",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Own bid",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Baseline",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Use comparable {0}",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Date not supplied",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Scope description not supplied",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "{0} {1} · excluded",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Not supplied",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "selected ·",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "eligible",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "won ·",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "lost ·",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "unknown",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "records",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "No usable outcomes",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "No usable paired prices",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Statistics reflect the saved selection. Unknown outcomes are excluded from the win rate. A small or dissimilar sample is not a calibrated prediction.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Adopt observed win rate as the scenario reference probability",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Adopt the median comparable bid-to-baseline ratio as the reference-price basis",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical adoption rationale",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Required when adopting either historical statistic. Explain scope comparability and limitations.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Installation capacity",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Record capacity for the planned installation period. Capacity does not automatically change prices or probabilities.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Capacity period start",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Capacity period end",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Available installation hours",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Both period dates are required when entering hours.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Already committed hours",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Enter 0 explicitly if there are no commitments.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Not assessed",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Labour coverage is incomplete. Known demand understates the full requirement; a displayed zero shortfall does not establish sufficient capacity.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Commercial context change reason",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Why these comparables or capacity inputs apply",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Saving creates a revision with the evidence and inputs used by exports.",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Saving…",
+    "files": [
+      "src\\CommercialContext.tsx",
+      "src\\Dialogs.tsx",
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Save commercial context",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Imported source files",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "Historical CSV",
+    "files": [
+      "src\\CommercialContext.tsx"
+    ]
+  },
+  {
+    "text": "btn btn-{0} {1}",
+    "files": [
+      "src\\components.tsx"
+    ]
+  },
+  {
+    "text": "badge badge-{0}",
+    "files": [
+      "src\\components.tsx"
+    ]
+  },
+  {
+    "text": "Loading…",
+    "files": [
+      "src\\components.tsx"
+    ]
+  },
+  {
+    "text": "modal {0}",
+    "files": [
+      "src\\components.tsx"
+    ]
+  },
+  {
+    "text": "Close dialog",
+    "files": [
+      "src\\components.tsx"
+    ]
+  },
+  {
+    "text": "Missing quantity",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Missing material reference",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Missing installation rule",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Technical conflict",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Quotation required",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Rate from similar catalogue item awaiting approval",
+    "files": [
+      "src\\coverage.ts"
+    ]
+  },
+  {
+    "text": "Unassigned",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Change at least one value, or use Accept review to record a review decision.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Review position",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Changes create an auditable revision and recalculate the estimate.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Description",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "System",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Quantity",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Leave empty if the quantity is unknown.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Unit",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unknown",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Pricing reference",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "No product selected",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Installation rule",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "No rule selected",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Review state",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Pending",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Accepted",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Rejected",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Technical equivalence",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Unverified",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Confirmed by reviewer",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Incompatible",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Optional pricing overrides",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Net unit cost · CHF",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "From reference",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Labour rate · CHF/h",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "From rule",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Material waste · %",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Project assumption",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Installation factors & scope ownership",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Blank inherits the project assumption.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Scope treatment",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Exclusions require a reason and remain traceable in the estimate.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Current outcome:",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Cost scope owner",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Position ID or project:commissioning, project:documentation, etc. Blank means owned by this position.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Package inclusions",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Comma-separated scopes: installation, transport, small_material, supplier_contingency, commissioning, documentation.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Package inclusions prevent costs from being charged again. The calculation engine validates ownership and scope overlap.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Reason for this change",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Explain the evidence or commercial assumption behind this decision.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Recalculating…",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Save and recalculate",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Add a position from evidence",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Recover missing scope while preserving the original source.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "ORIGINAL GERMAN EVIDENCE · PAGE",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Unknown quantities remain unpriced.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Values not supported by the selected evidence will be recorded as manual assumptions.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Possible existing positions",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "This is an intentional split or separate scope. My reason explains why.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Reason for adding this position",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Adding position…",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Add and calculate",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Project assumptions",
+    "files": [
+      "src\\Dialogs.tsx",
+      "src\\HistoryChanges.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "These inputs determine the cost build-up. Every edit creates a revision.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Allowance bases are editable prototype assumptions. School and sports-hall height factors apply to their respective scope.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Quote required",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Equivalent area",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Off",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "On",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Reason for changing assumptions",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Apply and recalculate",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Edit commercial adjustment",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "New commercial adjustment",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Only approved adjustments affect the estimate. Unsupported savings are never generated.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Type",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Risk allowance · add cost",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Opportunity · reduce cost",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Amount · CHF",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Title",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "For example, restricted access equipment",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Affected scope",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Basis and evidence",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Describe the supporting evidence and how this amount was determined.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Scope overlap resolution",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "If flagged, explain precisely how this scope differs from existing allowances. Leave empty when not applicable.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Reason",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Existing supplier contingency and project allowances cannot be charged again.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Editing this adjustment returns it to pending review.",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Save as pending",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Amount:",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Reason for this decision",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Confirm decision",
+    "files": [
+      "src\\Dialogs.tsx"
+    ]
+  },
+  {
+    "text": "Ancillary rooms",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Dining rooms",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Kitchen",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Classrooms",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Sports hall",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Rooftop supports",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Unassigned scope",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Equipment",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Supplier packages",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Ductwork",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Position / description",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Added",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Direct cost",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "cost-cell {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Provisional · supplier quote needed",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Known:",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "material {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "labour {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Reviewed",
+    "files": [
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Source",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "View source page {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Enter",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "estimate-page density-{0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "ESTIMATE WORKSPACE",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Inspect. Decide. Defend.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "positions · original evidence always one click away",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Close inspector",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "estimate-layout {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "All systems",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Evidence stays attached.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Review a position to see its source, calculation, and decision history.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Search estimate",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Search positions, products…",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Clear search",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "filter-btn {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Needs review",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Table density",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Compact",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Comfortable",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Apply area-rate rule to",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "rows",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "icon-btn {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Show material and labour columns",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Toggle detailed columns",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "in {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Review cause",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Filter review cause",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "All causes",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Filter outcome",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "All outcomes",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "No positions match",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Try another search or clear the filters.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "of",
+    "files": [
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "j/k or ↑/↓ select · Enter inspect · Esc close · a accept review",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Previous positions page",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Next positions page",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "EVIDENCE INSPECTOR",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Source page {0}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Close evidence inspector",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Inspector width",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Loading source viewer…",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "The original extraction",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "No estimator changes have been recorded for this position.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Inspect before / after",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Reverse this change",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Edit",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Accept review",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Apply area-rate rule to {0} rows?",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Review each affected position’s direct-cost impact. Section fittings remain unpriced. This is a reversible decision.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Calculating row-by-row price impact…",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Position",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Material Δ",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Labour Δ",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Direct-cost impact",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Hours Δ",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "No rows have a priced change under this rule.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Reason for applying this pricing rule",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Confirm area-rate rule",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "· Manually added",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Quantity & source",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Not recorded",
+    "files": [
+      "src\\Estimate.tsx",
+      "src\\HistoryChanges.tsx",
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "PDF geometry: 2 × (",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": ") mm ×",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "mm ÷ 1,000,000",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "× {0} fitting area factor (project assumption)",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "provisional takeoff only; material price remains unresolved.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "provisional area-rate price; verify geometry and supplier scope.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "priced area.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Page",
+    "files": [
+      "src\\Estimate.tsx",
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Specification spans pages {0}–{1}",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Technical attributes & conversions",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Not stated",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Product pricing reference",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "No reference selected",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Provisional supplier reference from catalog.csv. Obtain a current quote and verify the tender manufacturer, specification and scope before relying on this price.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Unspecified",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "A pricing reference does not establish approved technical equivalence.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "catalog.csv ·",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "per",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Material:",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "m² equivalent",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "% waste) =",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Material cost",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Installation labour",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Missing",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "productivity.csv ·",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Unresolved",
+    "files": [
+      "src\\Estimate.tsx",
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Labour:",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "h (unrounded) ×",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": ". Base:",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "; factors from project assumptions are shown above.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Labour cost",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Direct position cost",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "This position has known partial costs. Its complete direct cost remains unresolved; the known material and labour components are included in the estimate.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Recorded assumptions",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Position issues",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Cost scope belongs to",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "; excluded here to avoid duplication.",
+    "files": [
+      "src\\Estimate.tsx"
+    ]
+  },
+  {
+    "text": "Recorded details",
+    "files": [
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "Yes",
+    "files": [
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "No",
+    "files": [
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "Commercial context",
+    "files": [
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "No displayed fields changed. Full revision data is available in the JSON export.",
+    "files": [
+      "src\\HistoryChanges.tsx"
+    ]
+  },
+  {
+    "text": "In review",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Bids by status",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Show status chart",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Show status table",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Status",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Bids",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Offer value",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Bids by status: {0} bids",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "{0}: {1} bids, {2}%, {3}",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "bids ·",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Total bids",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "No bids",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "{0} · {1} bids · {2}",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Hover or focus a segment to see its offer value",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Updating bids…",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Bid pipeline",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Could not refresh bids:",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Loading your organization’s bids…",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Preparing prices, coverage and reviews for all bids.",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "MANAGEMENT",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Select a bid to inspect its full audit trail.",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Pipeline value",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Avg target margin",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Avg value priced",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Open reviews",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Pipeline by estimator",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Margin vs % value priced",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Price range per bid",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "BID REGISTER",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "management-filter-control {0}",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "All statuses",
+    "files": [
+      "src\\Management.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Project",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Offer",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Reviews",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Updated",
+    "files": [
+      "src\\Management.tsx",
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Audit",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Open",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Audit trail · {0}",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Selected bid",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "{0} · revision {1} · updated {2}",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Recorded changes for the selected bid.",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Loading audit…",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Could not load audit:",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "changes",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "· revision",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "No changes have been recorded for this bid.",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Create variants to compare estimators",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Duplicate",
+    "files": [
+      "src\\Management.tsx"
+    ]
+  },
+  {
+    "text": "Review priorities",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} issues",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Costs & offer price",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Scope by system",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} groups",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Requirements",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} requirements",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Risks",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} adjustments",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "PROJECT INTELLIGENCE",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Every number. Backed by evidence.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Your first estimate, with the context to make it yours.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Adjust assumptions →",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "INDICATIVE INCLUDED-SCOPE PRICE",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "% of estimated value covered",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "DRAFT ESTIMATE",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Included scope only ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "supplier references (",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "direct) await quotes",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "cost baseline",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "CHF · before VAT",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "priced ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "covered elsewhere ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "unresolved",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Review complete for included scope",
+    "files": [
+      "src\\Overview.tsx",
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Estimator review required",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Open estimate",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Indicative total project range",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Benchmark",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Benchmark exposure",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "⇒ total after commercial assumptions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Median marker = included price + unresolved-scope allowance · benchmark only",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Inspect benchmark allowances",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Document coverage",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Partially extracted",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Parsed",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "In progress",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "pages",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "text not yet assigned to a position",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "failed ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "partial",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Inspect page outcomes",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Pending reviews",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Actionable estimator queue",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Priced positions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Quotes pending",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} use supplier references; quotes pending",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unresolved positions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Prioritized by estimated impact",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Positions identified",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Current estimate · {0} added by estimator",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "What needs your decision now",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "items are holding back confidence in the estimate. Start with the highest-impact gaps.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Overview details",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Open Analytics",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Explore cost & scope",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Estimate details",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Inspect the full details of your saved estimate.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Transparent inputs. Deterministic calculations.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Edit cost assumptions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Indicative full-scope range (benchmark-based, not a bid)",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Scope breakdown",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "One estimate, two perspectives.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "system-icon color-{0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "· {0} unpriced",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "No priced cost",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "material ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "labour",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Reconciles to cost baseline",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Resolve uncertain scope before making a commercial commitment.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "All",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "No open review issues",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Position approvals and unpriced scope remain visible in the estimate.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "issue-symbol {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "evidence references ·",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Show fewer issues",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "View all {0} issues",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Risk & opportunity register",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Commercial judgment, explicitly recorded. Only approved entries affect the estimate.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Add adjustment",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "No additional commercial adjustments",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Existing allowances are already included. Add a supported risk or opportunity when the evidence calls for it.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "CHF 0 additional",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Adjustment",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Amount",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Scope / basis",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Approval",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Actions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Edit adjustment",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Edit {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Approve {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Approve adjustment",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Reject adjustment",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Reject {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Approved risks",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "None",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Approved opportunities",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Pending net preview",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Tender requirements",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Obligations and restrictions preserved from the source.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "identified",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Show fewer requirements",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "View all {0} requirements",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "No tender requirements identified",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Local workspace · Revision",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Processed {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Reviewable draft",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "· Source documents remain unchanged",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Page processing outcomes",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Processed pages may contain unresolved blocks. This is not a completeness guarantee.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Inspect these blocks and recover any missing position from the source.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Review page",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Parsing",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Extraction",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Notes",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced Scope Benchmark Allowance",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Advisory estimate for unresolved scope. It does not add or change positions and is not included in the offer.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Benchmark exposure:",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "(Median",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "unpriced positions have a known quantity and matching installation group. Their benchmark uses prices in the same group and unit; known partial costs are deducted.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "{0} positions have no benchmark basis and are excluded from the value-share figure.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "This allowance is",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "never automatically added",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "to the baseline. You can adopt it as a risk adjustment via the Risk &amp; Opportunity register.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "1px solid var(--border)",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced positions with benchmark basis",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced positions without basis",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Known direct cost, including partials and services",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Known cost ÷ (known cost + benchmark gap)",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Benchmark Unit Rates by Group",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Install Code",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Priced Sample",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "P25 Rate",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Median Rate",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "P75 Rate",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Traceable Reference Positions",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "+{0} more",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Top Unpriced Positions &amp; Benchmark Allowances",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Reference",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unit Rate",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Median Allowance",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Basis Status",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Matched (",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "refs)",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Missing qty",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "No group basis",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Want to include this scope in the tender offer? Adopt as a risk adjustment.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced scope benchmark allowance ({0} positions)",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Median benchmark unit costs across {0} installation groups ({1} unpriced items). Range CHF {2} to CHF {3}.",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "incremental unpriced tender scope benchmark allowance",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "Adopt median as risk adjustment (",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "stat-icon {0}",
+    "files": [
+      "src\\Overview.tsx"
+    ]
+  },
+  {
+    "text": "PDF loading task is unavailable",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Unable to render this PDF page in the browser.",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Previous PDF page",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "PDF page",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Next PDF page",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Zoom out",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Zoom in",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Open original PDF",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Select evidence on the page to add a position",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Scrollable source document",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Rendering source page…",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Rendering source page...",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Select evidence: {0}",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "pdf-span {0} {1}",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "SOURCE TEXT · PAGE",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Click a source region above to inspect its original text.",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Create position from selection",
+    "files": [
+      "src\\PdfViewer.tsx"
+    ]
+  },
+  {
+    "text": "Enter a reason before accepting or rejecting a proposal.",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Position proposals",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Proposals for estimator approval",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Pending proposals do not change the estimate. Accepting a pricing reference does not confirm technical equivalence.",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Proposal decision reason",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Record the basis for the pricing assumption or extraction correction.",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Source lines / evidence",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "source line",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "attached on PDF page",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": ". Open the Source tab to inspect the highlight.",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Preview if accepted",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Recorded reason:",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Approve similar catalogue rate",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Reject catalogue suggestion",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "AI extraction refinement",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Accept correction",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "Reject correction",
+    "files": [
+      "src\\PositionProposals.tsx"
+    ]
+  },
+  {
+    "text": "COMMERCIAL PERSPECTIVE",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "A range. With a reason.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Explore the price of included scope under explicit commercial assumptions.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "RECOMMENDED BID RANGE",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Indicative price (target margin",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "%, project_parameters.commercial)",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "· Scenario margins from project_parameters.stretch_bid_optimization: Aggressive 2.5% / Target 4.0% / Conservative 6.5%",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Which assumption moves the price?",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Compare price sensitivity, then select an assumption to explore its impact.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Live assumptions",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Adjust assumptions",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Move a slider. Compare all three strategies live.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Price vs illustrative win probability",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "PREVIEWED SELLING PRICE",
+    "files": [
+      "src\\ScenarioExport.tsx",
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "CURRENT SELLING PRICE",
+    "files": [
+      "src\\ScenarioExport.tsx",
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Unsaved preview",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Saved offer",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "% target margin · Revision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Saved price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "· change",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario bid range · margins shown below",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Apply or reset the preview using the controls on the left.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Use the controls on the left to preview a change.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Included scope only.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "positions remain unpriced.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "RECOMMENDED BID RANGE FOR INCLUDED SCOPE",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario range · scenario margin assumptions shown on each offer price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Based on a cost baseline of",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": ". Bid range based on assumptions, for included scope. Excludes unresolved and unpriced scope.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Saved indicative price at revision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "supplier reference prices (",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "direct) await quotes.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Illustrative scenario model",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Probabilities are illustrative, not calibrated predictions. Historical records affect results only after explicit adoption below. These scenarios support estimator judgment; they do not identify an optimal bid.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Win probability model reference",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "REFERENCE PRICE",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "project_parameters.json default · baseline ÷ (1 − margin):",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "REFERENCE MARGIN",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "project_parameters.json default:",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reference margin overridden:",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "% (default",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reference price differs from the package default:",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "vs",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "panel scenario-card scenario-{0}",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Closest to saved indicative price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Offer price ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "% margin",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Illustrative win probability",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Why this recommendation",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Price vs reference unavailable;",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Offer is {0}{1}% vs reference;",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "achieved margin",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "%, illustrative win probability",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "expected contribution",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Use as offer price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Price sensitivity",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario assumptions · Commercial context",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Win probabilities are illustrative, not calibrated predictions.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "{0} · {1} · {2}% target margin",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reason to use this offer price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Confirm offer price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario assumptions & commercial context",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Review the model inputs and evidence. Changes require a reason before saving.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario assumptions",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Preview assumptions, then save a revision so the displayed scenarios and exported estimate agree.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Restore saved scenarios",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Aggressive",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Target",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Conservative",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Approved historical evidence controls",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "the reference probability",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "and",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "the reference price",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": ". Change the adoption settings below to return to manual assumptions.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "{0} margin · %",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reference margin (%)",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Defines the reference price used to compare scenario bids.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reference win probability",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "A probability from 0 to 1, not a percentage.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Probability points per 1% relative price difference.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Strategic appetite adjustment",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Competition adjustment",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "All financial results are calculated by the backend.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Calculating…",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Recalculate scenarios",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Unsaved preview. Exports still use revision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": ". Save these assumptions to include this scenario comparison in the handover.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scenario change reason",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Commercial basis for these assumptions",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Saving?",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Save scenarios to revision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "positions remain unpriced and",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "reviews are pending. The interval covers included scope only.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Complete review package",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Estimate, evidence, assumptions, and supplier questions in one archive.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Draft offer · German",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Print-ready estimate with unresolved scope and source references.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Position spreadsheet",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Structured positions, costs, quantities, and review outcomes.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Calculation & evidence",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Machine-readable revision, calculation inputs, and audit evidence.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Supplier RFQ drafts",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Outstanding quantities, specifications, and quotation questions.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "ESTIMATE HANDOVER",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "The price. And the proof.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Export a pinned revision with the reasoning that belongs to it.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Draft estimate — review outstanding",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "% of positions priced",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "priced /",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "covered elsewhere /",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "unpriced ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Unpriced scope allowance:",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "rows lack a benchmark; not included)",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "unpriced positions ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "pending reviews ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "pages processed",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "INDICATIVE PRICE",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Every export carries its revision, priced scope completeness, unpriced scope benchmark allowance, and draft status. Exporting does not mark the estimate as reviewed.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "panel export-card {0}",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "RECOMMENDED HANDOVER",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Preparing…",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Open printable draft",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Download",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Preparing an immutable revision export…",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Prepared downloads",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Decision history",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Every change has an owner, a reason, and a financial effect.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "decision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "No estimator changes have been recorded for this project yet.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Revision / date",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Decision",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Price change",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Actor",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Action",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Rev",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Inspect values",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Reverse",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scope ownership and assumptions",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Scope ownership ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "entries",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "linked position",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Charged to owner",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Calculation assumptions ·",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Recorded project assumption",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Formal procurement submission is outside this prototype.",
+    "files": [
+      "src\\ScenarioExport.tsx"
+    ]
+  },
+  {
+    "text": "Site efficiency",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Mounting height · school",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Mounting height · sports hall",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "School logistics",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Timber interface",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Base installation hours ÷ this factor · project parameters",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Multiplies hours only where the productivity rule applies it",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Multiplies hours for applicable sports hall positions",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "±CHF 0 · unchanged",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "±0 h · unchanged",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "This estimate has a newer revision. Refresh the page before applying this preview.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "LIVE ESTIMATE · REVISION",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "What changes when you adjust the plan?",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Move a control. See the offer recalculate against this revision before you save anything.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Preview ready",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "No pending preview",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Site productivity",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "{0} · productivity.csv",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Materials &amp; commercial",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Material waste",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Material quantity × catalogue or supplier rate × (1 + waste) · project parameters",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Overhead",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Adjusted direct cost × overhead · project parameters",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Target margin",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Selling price = baseline ÷ (1 − margin), rounded up to the configured CHF increment",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Labour rates",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Each rate starts from the role default in productivity.csv. Labour = unrounded hours × CHF/h.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "CHF/h",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Editable role rate · applies to matching installation rules",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "whatif-offer {0}",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Recalculating",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "vs current offer",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Adjust any control to preview the price impact.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Previewed in",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "ms · no revision written",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Install hours",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Scenario offer changes",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "All three bid scenarios",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "current → preview",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Most affected positions",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "direct cost",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "No position-level direct cost changed. Commercial-only changes flow through the project baseline.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Systems",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "No installation system shifted.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Recalculating the estimate…",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Drag a control to see material, labour, baseline, offer and scenario changes.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Reason for this assumption change",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "e.g. Revised access plan confirmed with site team",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Reset",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Applying…",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Apply with reason",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Apply writes all staged values as one revision. Reset discards the preview.",
+    "files": [
+      "src\\WhatIf.tsx"
+    ]
+  },
+  {
+    "text": "Pending review",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "MY WORKSPACE",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Your projects",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "projects. Select a project to continue estimating.",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "New project",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Search your projects",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Search projects…",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Filter projects by status",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Loading your projects…",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Opening estimate…",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "workspace-status workspace-status-{0}",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Tender project",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "No matching projects",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Start your first estimate",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Try another search or status filter.",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  },
+  {
+    "text": "Add a tender to create a project in your workspace.",
+    "files": [
+      "src\\Workspace.tsx"
+    ]
+  }
+]

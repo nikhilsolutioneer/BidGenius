@@ -1,0 +1,1694 @@
+[
+  {
+    "slide": 1,
+    "text": "EQUANS CHALLENGE  /  WORKING PROTOTYPE",
+    "x": 0.72,
+    "y": 0.55,
+    "w": 10,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 1,
+    "text": "BidGenius",
+    "x": 0.72,
+    "y": 1.42,
+    "w": 6.6,
+    "h": 0.7,
+    "size": 32
+  },
+  {
+    "slide": 1,
+    "text": "AI",
+    "x": 3.3200000000000003,
+    "y": 1.63,
+    "w": 0.35000000000000003,
+    "h": 0.34,
+    "size": 10.5
+  },
+  {
+    "slide": 1,
+    "text": "A first price.\nYou can explain.",
+    "x": 0.68,
+    "y": 2.26,
+    "w": 8.35,
+    "h": 2.05,
+    "size": 53
+  },
+  {
+    "slide": 1,
+    "text": "From a 202-page tender to a reviewable estimate.",
+    "x": 0.76,
+    "y": 4.67,
+    "w": 6.5,
+    "h": 0.77,
+    "size": 21
+  },
+  {
+    "slide": 1,
+    "text": "TENDER",
+    "x": 8.87,
+    "y": 2.58,
+    "w": 2.2,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 1,
+    "text": "202",
+    "x": 8.82,
+    "y": 2.94,
+    "w": 2.54,
+    "h": 1.2,
+    "size": 70
+  },
+  {
+    "slide": 1,
+    "text": "pages of source evidence",
+    "x": 8.91,
+    "y": 4.22,
+    "w": 2.24,
+    "h": 0.54,
+    "size": 14
+  },
+  {
+    "slide": 1,
+    "text": "REVIEW  →  EXPLAIN  →  DECIDE",
+    "x": 8.15,
+    "y": 5.77,
+    "w": 3.8,
+    "h": 0.62,
+    "size": 12
+  },
+  {
+    "slide": 1,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 1,
+    "text": "01  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 2,
+    "text": "THE PROBLEM",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 2,
+    "text": "202 pages. One pricing decision.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 2,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 2,
+    "text": "02  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 2,
+    "text": "202",
+    "x": 0.62,
+    "y": 1.95,
+    "w": 5.15,
+    "h": 2.15,
+    "size": 126
+  },
+  {
+    "slide": 2,
+    "text": "pages in the Oberglatt\nventilation tender",
+    "x": 0.77,
+    "y": 4.2,
+    "w": 4.65,
+    "h": 0.83,
+    "size": 25
+  },
+  {
+    "slide": 2,
+    "text": "01",
+    "x": 6.43,
+    "y": 2.17,
+    "w": 0.6,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 2,
+    "text": "Find the scope",
+    "x": 7.16,
+    "y": 2.12,
+    "w": 5.2,
+    "h": 0.42,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "What is included, missing or unclear?",
+    "x": 7.16,
+    "y": 2.6,
+    "w": 5.1,
+    "h": 0.55,
+    "size": 17
+  },
+  {
+    "slide": 2,
+    "text": "02",
+    "x": 6.43,
+    "y": 3.38,
+    "w": 0.6,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 2,
+    "text": "Price the work",
+    "x": 7.16,
+    "y": 3.33,
+    "w": 5.2,
+    "h": 0.42,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "Connect quantities, products and labour.",
+    "x": 7.16,
+    "y": 3.81,
+    "w": 5.1,
+    "h": 0.55,
+    "size": 17
+  },
+  {
+    "slide": 2,
+    "text": "03",
+    "x": 6.43,
+    "y": 4.59,
+    "w": 0.6,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 2,
+    "text": "Explain the gaps",
+    "x": 7.16,
+    "y": 4.54,
+    "w": 5.2,
+    "h": 0.42,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "Show which decisions still need a person.",
+    "x": 7.16,
+    "y": 5.02,
+    "w": 5.1,
+    "h": 0.55,
+    "size": 17
+  },
+  {
+    "slide": 2,
+    "text": "This tender excludes price negotiations. The first estimate matters.",
+    "x": 0.94,
+    "y": 6.13,
+    "w": 11.5,
+    "h": 0.52,
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "text": "THE WORKSPACE",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 3,
+    "text": "Read. Match. Calculate. Review.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 3,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 3,
+    "text": "03  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 3,
+    "text": "01",
+    "x": 0.78,
+    "y": 6.07,
+    "w": 0.42,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 3,
+    "text": "AI proposes",
+    "x": 1.25,
+    "y": 6.02,
+    "w": 3.42,
+    "h": 0.35,
+    "size": 19
+  },
+  {
+    "slide": 3,
+    "text": "Interpretation + candidate matches",
+    "x": 1.25,
+    "y": 6.42,
+    "w": 3.42,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 3,
+    "text": "02",
+    "x": 4.83,
+    "y": 6.07,
+    "w": 0.42,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 3,
+    "text": "Code calculates",
+    "x": 5.3,
+    "y": 6.02,
+    "w": 3.42,
+    "h": 0.35,
+    "size": 19
+  },
+  {
+    "slide": 3,
+    "text": "Material + labour + assumptions",
+    "x": 5.3,
+    "y": 6.42,
+    "w": 3.42,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 3,
+    "text": "03",
+    "x": 8.879999999999999,
+    "y": 6.07,
+    "w": 0.42,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 3,
+    "text": "Estimator decides",
+    "x": 9.35,
+    "y": 6.02,
+    "w": 3.42,
+    "h": 0.35,
+    "size": 19
+  },
+  {
+    "slide": 3,
+    "text": "Review + reasons + revisions",
+    "x": 9.35,
+    "y": 6.42,
+    "w": 3.42,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 3,
+    "text": "Prepared demo snapshot · included scope · estimator review required",
+    "x": 0.78,
+    "y": 1.8,
+    "w": 11.5,
+    "h": 0.16,
+    "size": 8.5
+  },
+  {
+    "slide": 4,
+    "text": "TRACEABILITY",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 4,
+    "text": "Open the price. See the proof.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 4,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 4,
+    "text": "04  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 4,
+    "text": "310 m²",
+    "x": 1.23,
+    "y": 2.09,
+    "w": 6.63,
+    "h": 0.53,
+    "size": 31
+  },
+  {
+    "slide": 4,
+    "text": "Quantity from PDF page 113",
+    "x": 1.25,
+    "y": 2.67,
+    "w": 6.3,
+    "h": 0.35,
+    "size": 18
+  },
+  {
+    "slide": 4,
+    "text": "LA02 · thermal insulation",
+    "x": 1.25,
+    "y": 3.0599999999999996,
+    "w": 6.3,
+    "h": 0.28,
+    "size": 13
+  },
+  {
+    "slide": 4,
+    "text": "P-INS-002",
+    "x": 1.23,
+    "y": 3.44,
+    "w": 6.63,
+    "h": 0.53,
+    "size": 25
+  },
+  {
+    "slide": 4,
+    "text": "Catalogue pricing reference",
+    "x": 1.25,
+    "y": 4.02,
+    "w": 6.3,
+    "h": 0.35,
+    "size": 18
+  },
+  {
+    "slide": 4,
+    "text": "60 mm mineral wool insulation",
+    "x": 1.25,
+    "y": 4.41,
+    "w": 6.3,
+    "h": 0.28,
+    "size": 13
+  },
+  {
+    "slide": 4,
+    "text": "Labour rule",
+    "x": 1.23,
+    "y": 4.79,
+    "w": 6.63,
+    "h": 0.53,
+    "size": 25
+  },
+  {
+    "slide": 4,
+    "text": "Hours, site factors and rate",
+    "x": 1.25,
+    "y": 5.37,
+    "w": 6.3,
+    "h": 0.35,
+    "size": 18
+  },
+  {
+    "slide": 4,
+    "text": "Calculation inputs stay inspectable",
+    "x": 1.25,
+    "y": 5.76,
+    "w": 6.3,
+    "h": 0.28,
+    "size": 13
+  },
+  {
+    "slide": 4,
+    "text": "A price reference still needs technical review.",
+    "x": 0.79,
+    "y": 6.51,
+    "w": 7.1,
+    "h": 0.35,
+    "size": 16
+  },
+  {
+    "slide": 5,
+    "text": "THE MOMENT THAT MATTERS",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 5,
+    "text": "“This needs your decision.”",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 5,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 5,
+    "text": "05  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 5,
+    "text": "Original tender · page 110",
+    "x": 0.79,
+    "y": 5.83,
+    "w": 5.4,
+    "h": 0.27,
+    "size": 11
+  },
+  {
+    "slide": 5,
+    "text": "SCOPE AMBIGUITY",
+    "x": 6.88,
+    "y": 2.13,
+    "w": 5,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 5,
+    "text": "“Not part of this tender.\nTendered separately.”",
+    "x": 6.86,
+    "y": 2.62,
+    "w": 5.66,
+    "h": 1.04,
+    "size": 29
+  },
+  {
+    "slide": 5,
+    "text": "The page also lists field devices.\nThe estimator resolves the scope.",
+    "x": 6.91,
+    "y": 3.93,
+    "w": 5.29,
+    "h": 0.9,
+    "size": 19
+  },
+  {
+    "slide": 5,
+    "text": "Include",
+    "x": 7,
+    "y": 5.11,
+    "w": 1.4100000000000001,
+    "h": 0.34,
+    "size": 10.5
+  },
+  {
+    "slide": 5,
+    "text": "Install only",
+    "x": 8.790000000000001,
+    "y": 5.11,
+    "w": 1.4100000000000001,
+    "h": 0.34,
+    "size": 10.5
+  },
+  {
+    "slide": 5,
+    "text": "Exclude",
+    "x": 10.58,
+    "y": 5.11,
+    "w": 1.4100000000000001,
+    "h": 0.34,
+    "size": 10.5
+  },
+  {
+    "slide": 5,
+    "text": "Record a reason. Create a revision.",
+    "x": 6.91,
+    "y": 5.75,
+    "w": 5.55,
+    "h": 0.53,
+    "size": 19
+  },
+  {
+    "slide": 5,
+    "text": "Unknown scope stays visible until it is reviewed.",
+    "x": 0.81,
+    "y": 6.49,
+    "w": 11.5,
+    "h": 0.32,
+    "size": 19
+  },
+  {
+    "slide": 6,
+    "text": "BID SCENARIOS",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 6,
+    "text": "Compare the bid before committing.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 6,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 6,
+    "text": "06  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 6,
+    "text": "THREE STRATEGIES / SAME INCLUDED SCOPE",
+    "x": 0.84,
+    "y": 2.1,
+    "w": 11.5,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 6,
+    "text": "Preview → Compare → Apply with a reason",
+    "x": 0.84,
+    "y": 6.08,
+    "w": 11.66,
+    "h": 0.47,
+    "size": 25
+  },
+  {
+    "slide": 6,
+    "text": "Prepared demo snapshot. Win probabilities are illustrative; included scope only.",
+    "x": 0.84,
+    "y": 6.79,
+    "w": 11.7,
+    "h": 0.21,
+    "size": 10
+  },
+  {
+    "slide": 7,
+    "text": "MEASURED EVIDENCE",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 7,
+    "text": "Fast to a draft. Clear about the limits.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 7,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 7,
+    "text": "07  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 7,
+    "text": "PREPARED LOCAL RUN",
+    "x": 0.81,
+    "y": 2.05,
+    "w": 5.1,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 7,
+    "text": "55 s",
+    "x": 0.71,
+    "y": 2.34,
+    "w": 5.4,
+    "h": 1.58,
+    "size": 92
+  },
+  {
+    "slide": 7,
+    "text": "to a reviewable first draft",
+    "x": 0.83,
+    "y": 3.98,
+    "w": 5.1,
+    "h": 0.52,
+    "size": 25
+  },
+  {
+    "slide": 7,
+    "text": "202 pages attempted · one partial page\nSingle laptop · no AI call in this run",
+    "x": 0.84,
+    "y": 4.69,
+    "w": 5.28,
+    "h": 0.93,
+    "size": 18
+  },
+  {
+    "slide": 7,
+    "text": "SEPARATE AI + LOCAL RUN",
+    "x": 6.83,
+    "y": 2.05,
+    "w": 5.66,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 7,
+    "text": "80/83",
+    "x": 6.75,
+    "y": 2.43,
+    "w": 5.5,
+    "h": 1.3,
+    "size": 73
+  },
+  {
+    "slide": 7,
+    "text": "sample rows detected with\ncorrect quantity and unit",
+    "x": 6.86,
+    "y": 3.98,
+    "w": 5.46,
+    "h": 0.91,
+    "size": 23
+  },
+  {
+    "slide": 7,
+    "text": "Purposive sample; does not establish\ncomplete extraction or pricing accuracy.",
+    "x": 6.87,
+    "y": 5.04,
+    "w": 5.48,
+    "h": 0.66,
+    "size": 16
+  },
+  {
+    "slide": 7,
+    "text": "22/22 supplied examples reproduced",
+    "x": 0.98,
+    "y": 6.08,
+    "w": 6.6,
+    "h": 0.57,
+    "size": 21
+  },
+  {
+    "slide": 7,
+    "text": "Quantity · unit · reference · system",
+    "x": 7.55,
+    "y": 6.16,
+    "w": 4.8,
+    "h": 0.35,
+    "size": 14
+  },
+  {
+    "slide": 7,
+    "text": "Sources: prepared-demo.json · evaluation.json · live-holdout-evaluation.json (10 Oct 2026)",
+    "x": 0.84,
+    "y": 6.82,
+    "w": 11.7,
+    "h": 0.16,
+    "size": 8.5
+  },
+  {
+    "slide": 8,
+    "text": "HANDOVER",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 8,
+    "text": "The estimate travels with its evidence.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 8,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 8,
+    "text": "08  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 8,
+    "text": "ONE REVISION",
+    "x": 1.08,
+    "y": 2.51,
+    "w": 4.1,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 8,
+    "text": "Estimate\n+ evidence\n+ open questions",
+    "x": 1.07,
+    "y": 3.07,
+    "w": 4.18,
+    "h": 1.76,
+    "size": 31
+  },
+  {
+    "slide": 8,
+    "text": "A draft package the next\nreviewer can inspect.",
+    "x": 1.09,
+    "y": 5.25,
+    "w": 4.07,
+    "h": 0.82,
+    "size": 20
+  },
+  {
+    "slide": 8,
+    "text": "01",
+    "x": 6.3,
+    "y": 2.3,
+    "w": 0.56,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 8,
+    "text": "Draft offer",
+    "x": 7.09,
+    "y": 2.26,
+    "w": 5.4,
+    "h": 0.4,
+    "size": 23
+  },
+  {
+    "slide": 8,
+    "text": "German printable estimate",
+    "x": 7.09,
+    "y": 2.78,
+    "w": 5.4,
+    "h": 0.47,
+    "size": 18
+  },
+  {
+    "slide": 8,
+    "text": "02",
+    "x": 6.3,
+    "y": 3.57,
+    "w": 0.56,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 8,
+    "text": "Structured data",
+    "x": 7.09,
+    "y": 3.53,
+    "w": 5.4,
+    "h": 0.4,
+    "size": 23
+  },
+  {
+    "slide": 8,
+    "text": "CSV, JSON and calculation inputs",
+    "x": 7.09,
+    "y": 4.05,
+    "w": 5.4,
+    "h": 0.47,
+    "size": 18
+  },
+  {
+    "slide": 8,
+    "text": "03",
+    "x": 6.3,
+    "y": 4.84,
+    "w": 0.56,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 8,
+    "text": "Review package",
+    "x": 7.09,
+    "y": 4.8,
+    "w": 5.4,
+    "h": 0.4,
+    "size": 23
+  },
+  {
+    "slide": 8,
+    "text": "Source PDF, assumptions and issues",
+    "x": 7.09,
+    "y": 5.32,
+    "w": 5.4,
+    "h": 0.47,
+    "size": 18
+  },
+  {
+    "slide": 8,
+    "text": "Exports stay tied to the saved revision.",
+    "x": 6.37,
+    "y": 6.26,
+    "w": 6.06,
+    "h": 0.45,
+    "size": 18
+  },
+  {
+    "slide": 9,
+    "text": "PROPOSED NEXT STEP",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 9,
+    "text": "Prove the value with estimators.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 9,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 9,
+    "text": "09  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 9,
+    "text": "5–10",
+    "x": 0.72,
+    "y": 1.98,
+    "w": 5.23,
+    "h": 1.56,
+    "size": 90
+  },
+  {
+    "slide": 9,
+    "text": "historical tenders\nfor a proposed pilot",
+    "x": 0.87,
+    "y": 3.69,
+    "w": 5.16,
+    "h": 0.91,
+    "size": 25
+  },
+  {
+    "slide": 9,
+    "text": "Test",
+    "x": 6.69,
+    "y": 2.08,
+    "w": 5.8,
+    "h": 0.4,
+    "size": 24
+  },
+  {
+    "slide": 9,
+    "text": "Compare against reviewed estimates.",
+    "x": 6.7,
+    "y": 2.56,
+    "w": 5.85,
+    "h": 0.57,
+    "size": 17
+  },
+  {
+    "slide": 9,
+    "text": "Measure",
+    "x": 6.69,
+    "y": 3.3,
+    "w": 5.8,
+    "h": 0.4,
+    "size": 24
+  },
+  {
+    "slide": 9,
+    "text": "Review time, corrections and coverage.",
+    "x": 6.7,
+    "y": 3.78,
+    "w": 5.85,
+    "h": 0.57,
+    "size": 17
+  },
+  {
+    "slide": 9,
+    "text": "Connect",
+    "x": 6.69,
+    "y": 4.52,
+    "w": 5.8,
+    "h": 0.4,
+    "size": 24
+  },
+  {
+    "slide": 9,
+    "text": "Current supplier data and team controls.",
+    "x": 6.7,
+    "y": 5,
+    "w": 5.85,
+    "h": 0.57,
+    "size": 17
+  },
+  {
+    "slide": 9,
+    "text": "Pilot success = less review effort, with errors and gaps still visible.",
+    "x": 1.01,
+    "y": 5.94,
+    "w": 11.35,
+    "h": 0.58,
+    "size": 21
+  },
+  {
+    "slide": 9,
+    "text": "Pilot proposal; time savings and commercial impact have not yet been measured.",
+    "x": 0.89,
+    "y": 6.8,
+    "w": 11.8,
+    "h": 0.19,
+    "size": 9
+  },
+  {
+    "slide": 10,
+    "text": "BIDGENIUS AI",
+    "x": 0.78,
+    "y": 0.67,
+    "w": 10,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 10,
+    "text": "Read the tender.\nSee the gaps.\nDefend the price.",
+    "x": 0.73,
+    "y": 1.85,
+    "w": 11.85,
+    "h": 3.1,
+    "size": 55
+  },
+  {
+    "slide": 10,
+    "text": "Next: a measured pilot with Equans estimators.",
+    "x": 0.82,
+    "y": 5.55,
+    "w": 11.6,
+    "h": 0.59,
+    "size": 24
+  },
+  {
+    "slide": 10,
+    "text": "Thank you.",
+    "x": 0.83,
+    "y": 6.41,
+    "w": 8,
+    "h": 0.32,
+    "size": 18
+  },
+  {
+    "slide": 10,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 10,
+    "text": "10  /  10",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 11,
+    "text": "BACKUP / HOW IT WORKS",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 11,
+    "text": "AI interprets. Code prices. People approve.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 11,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 11,
+    "text": "Q&A  /  01",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 11,
+    "text": "01",
+    "x": 0.98,
+    "y": 2.57,
+    "w": 2,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 11,
+    "text": "Source inputs",
+    "x": 0.98,
+    "y": 3.03,
+    "w": 2.42,
+    "h": 0.45,
+    "size": 19
+  },
+  {
+    "slide": 11,
+    "text": "PDF + catalogue\n+ productivity rules",
+    "x": 0.98,
+    "y": 3.55,
+    "w": 2.39,
+    "h": 0.61,
+    "size": 14
+  },
+  {
+    "slide": 11,
+    "text": "→",
+    "x": 3.58,
+    "y": 3.05,
+    "w": 0.24,
+    "h": 0.3,
+    "size": 17
+  },
+  {
+    "slide": 11,
+    "text": "02",
+    "x": 4.029999999999999,
+    "y": 2.57,
+    "w": 2,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 11,
+    "text": "Interpretation",
+    "x": 4.029999999999999,
+    "y": 3.03,
+    "w": 2.42,
+    "h": 0.45,
+    "size": 19
+  },
+  {
+    "slide": 11,
+    "text": "Local parsing\n+ optional AI proposals",
+    "x": 4.029999999999999,
+    "y": 3.55,
+    "w": 2.39,
+    "h": 0.61,
+    "size": 14
+  },
+  {
+    "slide": 11,
+    "text": "→",
+    "x": 6.629999999999999,
+    "y": 3.05,
+    "w": 0.24,
+    "h": 0.3,
+    "size": 17
+  },
+  {
+    "slide": 11,
+    "text": "03",
+    "x": 7.079999999999999,
+    "y": 2.57,
+    "w": 2,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 11,
+    "text": "Calculation",
+    "x": 7.079999999999999,
+    "y": 3.03,
+    "w": 2.42,
+    "h": 0.45,
+    "size": 19
+  },
+  {
+    "slide": 11,
+    "text": "Validated inputs\n+ Decimal arithmetic",
+    "x": 7.079999999999999,
+    "y": 3.55,
+    "w": 2.39,
+    "h": 0.61,
+    "size": 14
+  },
+  {
+    "slide": 11,
+    "text": "→",
+    "x": 9.68,
+    "y": 3.05,
+    "w": 0.24,
+    "h": 0.3,
+    "size": 17
+  },
+  {
+    "slide": 11,
+    "text": "04",
+    "x": 10.129999999999999,
+    "y": 2.57,
+    "w": 2,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 11,
+    "text": "Review + export",
+    "x": 10.129999999999999,
+    "y": 3.03,
+    "w": 2.42,
+    "h": 0.45,
+    "size": 19
+  },
+  {
+    "slide": 11,
+    "text": "Reasons + revisions\n+ pinned snapshots",
+    "x": 10.129999999999999,
+    "y": 3.55,
+    "w": 2.39,
+    "h": 0.61,
+    "size": 14
+  },
+  {
+    "slide": 11,
+    "text": "React + TypeScript  →  FastAPI  →  SQLite + local files",
+    "x": 0.89,
+    "y": 4.93,
+    "w": 11.8,
+    "h": 0.49,
+    "size": 22
+  },
+  {
+    "slide": 11,
+    "text": "LangGraph checkpoints preserve completed processing batches.",
+    "x": 0.9,
+    "y": 5.66,
+    "w": 11.5,
+    "h": 0.43,
+    "size": 18
+  },
+  {
+    "slide": 11,
+    "text": "Local review works offline. Optional AI sends selected excerpts to an external API.",
+    "x": 0.9,
+    "y": 6.3,
+    "w": 11.6,
+    "h": 0.47,
+    "size": 17
+  },
+  {
+    "slide": 12,
+    "text": "BACKUP / SCOPE",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 12,
+    "text": "What still needs validation?",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 12,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 12,
+    "text": "Q&A  /  02",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 12,
+    "text": "Coverage",
+    "x": 1.02,
+    "y": 2.06,
+    "w": 3.18,
+    "h": 0.42,
+    "size": 22
+  },
+  {
+    "slide": 12,
+    "text": "Page attempts do not prove complete extraction.\nPage 201, drawings and missing quantities need review.",
+    "x": 4.35,
+    "y": 2.06,
+    "w": 8.12,
+    "h": 0.82,
+    "size": 17
+  },
+  {
+    "slide": 12,
+    "text": "Pricing",
+    "x": 1.02,
+    "y": 3.19,
+    "w": 3.18,
+    "h": 0.42,
+    "size": 22
+  },
+  {
+    "slide": 12,
+    "text": "Supplier references are provisional.\nCatalogue match does not approve technical equivalence.",
+    "x": 4.35,
+    "y": 3.19,
+    "w": 8.12,
+    "h": 0.82,
+    "size": 17
+  },
+  {
+    "slide": 12,
+    "text": "Bid probabilities",
+    "x": 1.02,
+    "y": 4.32,
+    "w": 3.18,
+    "h": 0.42,
+    "size": 22
+  },
+  {
+    "slide": 12,
+    "text": "Scenario assumptions are illustrative.\nHistorical data is needed for calibration.",
+    "x": 4.35,
+    "y": 4.32,
+    "w": 8.12,
+    "h": 0.82,
+    "size": 17
+  },
+  {
+    "slide": 12,
+    "text": "Team deployment",
+    "x": 1.02,
+    "y": 5.449999999999999,
+    "w": 3.18,
+    "h": 0.42,
+    "size": 22
+  },
+  {
+    "slide": 12,
+    "text": "Authentication and multiuser collaboration remain future work.\nFormal tender submission stays with the bid team.",
+    "x": 4.35,
+    "y": 5.449999999999999,
+    "w": 8.12,
+    "h": 0.82,
+    "size": 17
+  },
+  {
+    "slide": 13,
+    "text": "BACKUP / EVIDENCE REGISTER",
+    "x": 0.65,
+    "y": 0.43,
+    "w": 11,
+    "h": 0.26,
+    "size": 11
+  },
+  {
+    "slide": 13,
+    "text": "The numbers and their sources.",
+    "x": 0.65,
+    "y": 0.95,
+    "w": 12.05,
+    "h": 0.78,
+    "size": 35
+  },
+  {
+    "slide": 13,
+    "text": "BidGenius AI  /  Equans challenge",
+    "x": 0.6,
+    "y": 7.16,
+    "w": 6,
+    "h": 0.18,
+    "size": 9
+  },
+  {
+    "slide": 13,
+    "text": "Q&A  /  03",
+    "x": 11.2,
+    "y": 7.14,
+    "w": 1.52,
+    "h": 0.2,
+    "size": 9
+  },
+  {
+    "slide": 13,
+    "text": "MEASUREMENT",
+    "x": 0.98,
+    "y": 2.06,
+    "w": 2.9,
+    "h": 0.48,
+    "size": 11
+  },
+  {
+    "slide": 13,
+    "text": "RESULT",
+    "x": 4.05,
+    "y": 2.06,
+    "w": 3.9,
+    "h": 0.48,
+    "size": 11
+  },
+  {
+    "slide": 13,
+    "text": "LOCAL SOURCE",
+    "x": 8.11,
+    "y": 2.06,
+    "w": 4.3,
+    "h": 0.48,
+    "size": 11
+  },
+  {
+    "slide": 13,
+    "text": "Prepared local draft",
+    "x": 0.98,
+    "y": 2.57,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "55.035 s · 202 pages attempted",
+    "x": 4.05,
+    "y": 2.57,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "artifacts/prepared-demo.json",
+    "x": 8.11,
+    "y": 2.57,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Prepared extraction",
+    "x": 0.98,
+    "y": 3.09,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "679 records · 542 unpriced",
+    "x": 4.05,
+    "y": 3.09,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "artifacts/prepared-demo.json",
+    "x": 8.11,
+    "y": 3.09,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Included-scope draft price",
+    "x": 0.98,
+    "y": 3.61,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "CHF 1,661,000 · revision 1",
+    "x": 4.05,
+    "y": 3.61,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "artifacts/prepared-demo.json",
+    "x": 8.11,
+    "y": 3.61,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Supplied examples",
+    "x": 0.98,
+    "y": 4.13,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "22/22 across evaluated fields",
+    "x": 4.05,
+    "y": 4.13,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "artifacts/evaluation.json",
+    "x": 8.11,
+    "y": 4.13,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Live run sample",
+    "x": 0.98,
+    "y": 4.65,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "80/83 detected + quantity/unit correct",
+    "x": 4.05,
+    "y": 4.65,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "artifacts/live-holdout-evaluation.json",
+    "x": 8.11,
+    "y": 4.65,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Golden example LV0001",
+    "x": 0.98,
+    "y": 5.17,
+    "w": 2.95,
+    "h": 0.49,
+    "size": 12.5
+  },
+  {
+    "slide": 13,
+    "text": "CHF 806.26 direct position cost",
+    "x": 4.05,
+    "y": 5.17,
+    "w": 3.93,
+    "h": 0.49,
+    "size": 12.2
+  },
+  {
+    "slide": 13,
+    "text": "Starter package: expected_output_example.json",
+    "x": 8.11,
+    "y": 5.17,
+    "w": 4.27,
+    "h": 0.49,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Prepared financial snapshot: 10 October 2026. Provisional prices; unresolved scope remains.",
+    "x": 0.87,
+    "y": 5.96,
+    "w": 11.68,
+    "h": 0.44,
+    "size": 15
+  },
+  {
+    "slide": 13,
+    "text": "The 55-second local draft and the live AI sample are separate runs.",
+    "x": 0.87,
+    "y": 6.53,
+    "w": 11.68,
+    "h": 0.36,
+    "size": 17
+  }
+]

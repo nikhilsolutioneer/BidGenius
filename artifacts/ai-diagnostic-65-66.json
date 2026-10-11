@@ -1,0 +1,28 @@
+{
+  "pages": [
+    65,
+    66
+  ],
+  "diagnosed_at": "2026-10-10T12:48:36.883048+00:00",
+  "mode": "Independent repeated model request; active project and run unchanged",
+  "status": "failed",
+  "error_type": "ValueError",
+  "usage": {
+    "input_tokens": 30327,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 6875,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 37202,
+    "repair_attempts": 1,
+    "usage_unavailable_attempts": 0
+  },
+  "validation_observations": [
+    "Model cited source IDs outside the provided batch",
+    "Model cited source IDs outside the provided batch"
+  ]
+}

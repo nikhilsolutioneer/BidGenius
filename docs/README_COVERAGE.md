@@ -1,0 +1,27 @@
+# Starter README coverage
+
+This matrix tracks the starter package's README requirements against TenderProof. It describes implemented behaviour and evidence; it does not imply that unknown tender scope has a price.
+
+| README requirement | Application coverage | Evidence / remaining limit |
+|---|---|---|
+| Ingest the full tender and identify systems | Full-PDF local parser and resumable LangGraph batches record each page outcome. | `workflow.py`, `ingestion.py`; live 202-page run report is recorded separately. Drawings and the referenced Excel takeoff were not supplied. |
+| Extract descriptions, quantities, units, attributes | Source-linked positions retain original German spans, normalized units, attributes, and unknowns. AI refinements are review proposals. | `ai.py`, `matching.py`; independently transcribed evaluation fixture `tests/fixtures/readme_holdout.json`. |
+| Match catalogue products and supplier packages | Constraint-checked candidates explain satisfied, missing, and conflicting attributes; technical equivalence stays independent. | `matching.py`, estimate review UI. Unmatched rectangular duct area positions may receive pricing-only proxy proposals requiring approval. Other unsupported scope remains unresolved. |
+| Estimate installation hours and labour | Deterministic Decimal calculation exposes rule, factors, unrounded hours, labour role, rate, and cost. | `pricing.py`; the 22 supplied verified examples remain the calculator benchmark. |
+| Calculate indicative project price | Materials, known installation labour, project allowances/services, approved adjustments, overhead, and margin feed the revision totals. | `pricing.py`; unknown amounts are never silently set to zero and the price is labelled for included scope. |
+| Show uncertainty and source-page traceability | Positions link to physical PDF pages and source spans; statuses and causes show unresolved quantities, references, rules, conflicts, and quotations. | `service.py`, `main.py`, PDF evidence inspector; source references are included in exports. |
+| Required outcome statuses | Calculated, quotation required, assumption applied, review required, insufficient information, out of scope, and non-priceable outcomes are represented. | Pydantic outcome type in `models.py`; regression suite covers unknown values and provisional pricing. |
+| Reviewable estimator interface | Overview, estimate, evidence, scenarios, and export workspace supports edits, manual recovery, proxy approval, and revision history. | `frontend/src`; keyboard and responsive checks documented in validation artifacts. |
+| Catalogue packages, labour services, system/category totals | Shared calculated lines aggregate to reconciling system and category views; project costs remain explicit. | `pricing.py`, summary API, Overview. Rooftop support with no matching catalogue rate remains a visible pricing gap. |
+| Replace proposed matches and assumptions | Position edits require a reason and expected revision; stale updates return 409; edits create a priced revision and invalidate affected approvals. | `service.py`, `/api/positions/{id}`, review-history UI. |
+| Indicative project price | Full estimate includes known and approved costs with assumptions and unpriced counts. | Summary and export. It is not a complete tender submission while unresolved scope remains. |
+| Aggressive, Target, Conservative scenarios | Scenario cards show rounded bid, requested and achieved margin, illustrative win probability, contribution, and the bid interval. | `pricing.py`, scenario workspace. Probabilities are heuristics until estimator-approved history is imported. |
+| Optional historical bids / similar projects | CSV preview/import, duplicate detection, provenance, CHF-only comparison, comparable selection, and explicitly adopted historical statistics. | `commercial.py`; no historical records were included in the starter package, so no project history is seeded. Adoption requires an estimator rationale. |
+| Competitive intensity, client sensitivity, strategic appetite | Editable scenario assumptions are revisioned and affect the saved scenario snapshot. | Commercial context API and scenario panel; estimates remain explicitly illustrative. |
+| Available capacity | Period, available hours, and committed hours produce known demand, shortfall, and incomplete-labour indicators. | Commercial context API; capacity does not automatically alter model probabilities. |
+| Recommended bid range | Exports and UI label the recommended range for included scope and pin the inputs/results to a revision. | `commercial.py`, scenario/export output; no claim of statistical optimality. |
+| LV0001 golden example | Five DN100 supply-air valves reference P-AIR-001 and DIFFUSER on source page 78. | Existing golden calculation test: CHF 388.96 material, 4.346875 hours, CHF 417.30 labour, CHF 806.26 direct. |
+
+## Interpretation limits
+
+The README calls historical bids, similar projects, competition, client sensitivity, strategic appetite, and capacity potential inputs. Their interface and evidence handling are implemented, but the starter package supplies none of the historical or capacity values. Until real records are provided and reviewed, the scenario estimates remain assumption-based. Catalogue proxy approval is a pricing decision; it does not assert technical equivalence. The application supports a first estimate and audit trail, not formal procurement submission.

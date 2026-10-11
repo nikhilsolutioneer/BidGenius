@@ -1,0 +1,838 @@
+{
+  "frozen_at": "2026-10-10T12:37:17.527219+00:00",
+  "purpose": "Independent quantity/unit detection evaluation, not catalogue mapping ground truth.",
+  "annotation_method": "Source text manually read; explicit row quantities transcribed; straight duct dimensions normalized by Decimal only.",
+  "limitations": "Stratified purposive sample, not statistical completeness proof. Last two rooftop rows also exist in prior regression set; report separately. No holdout-based extraction tuning.",
+  "rows": [
+    {
+      "id": "R001",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "4679L Luftleitung 200 300",
+      "quantity": "4.679",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R002",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "8608L Luftleitung 300 200",
+      "quantity": "8.608",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R003",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "2851L Luftleitung 400 950",
+      "quantity": "7.6977",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R004",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "4122L Luftleitung 450 100",
+      "quantity": "4.5342",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R005",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "2181L Luftleitung 500 150",
+      "quantity": "2.8353",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R006",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "11178L Luftleitung 700 450",
+      "quantity": "25.7094",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R007",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "920L Luftleitung 950 400",
+      "quantity": "2.484",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R008",
+      "system": "LA01",
+      "page": 75,
+      "source_snippet": "15720L Luftleitung 1100 350",
+      "quantity": "45.588",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R009",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "18000L Luftleitung 200 400",
+      "quantity": "21.6",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R010",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "9880L Luftleitung 350 300",
+      "quantity": "12.844",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R011",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "24522L Luftleitung 350 400",
+      "quantity": "36.783",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R012",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "1904L Luftleitung 350 500",
+      "quantity": "3.2368",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R013",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "13961L Luftleitung 400 200",
+      "quantity": "16.7532",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R014",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "8215L Luftleitung 400 350",
+      "quantity": "12.3225",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R015",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "2685L Luftleitung 400 400",
+      "quantity": "4.296",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R016",
+      "system": "LA02",
+      "page": 100,
+      "source_snippet": "1663L Luftleitung 450 700",
+      "quantity": "3.8249",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R017",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "3802L Luftleitung 100 350",
+      "quantity": "3.4218",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R018",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "11364L Luftleitung 200 350",
+      "quantity": "12.5004",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R019",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "7042L Luftleitung 250 600",
+      "quantity": "11.9714",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R020",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "2822L Luftleitung 350 100",
+      "quantity": "2.5398",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R021",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "19763L Luftleitung 350 200",
+      "quantity": "21.7393",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R022",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "7015L Luftleitung 350 500",
+      "quantity": "11.9255",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R023",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "6622L Luftleitung 400 550",
+      "quantity": "12.5818",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R024",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "6693L Luftleitung 450 450",
+      "quantity": "12.0474",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R025",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "3350L Luftleitung 150 700",
+      "quantity": "5.695",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R026",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "1140L Luftleitung 150 740",
+      "quantity": "2.0292",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R027",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "22894L Luftleitung 200 600",
+      "quantity": "36.6304",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R028",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "1856L Luftleitung 600 200",
+      "quantity": "2.9696",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R029",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "14281L Luftleitung 700 150",
+      "quantity": "24.2777",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R030",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "1930L Luftleitung 740 200",
+      "quantity": "3.6284",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R031",
+      "system": "LA05",
+      "page": 182,
+      "source_snippet": "1951L Luftleitung 740 250",
+      "quantity": "3.86298",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R032",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Drehantrieb, 20 Nm, Stk. 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R033",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Drehantrieb, 5 Nm Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R034",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Kanalrauchmelder Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R035",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Druckwächter Stk. 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R036",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Frostschutzwächter, 2-Punkt Stk 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R037",
+      "system": "LA01",
+      "page": 82,
+      "source_snippet": "Druckdifferenzfühler Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R038",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Drehantrieb, 20 Nm, Stk. 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R039",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Drehantrieb, 5 Nm Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R040",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Kanalrauchmelder Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R041",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Druckwächter Stk. 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R042",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Frostschutzwächter, 2-Punkt Stk 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R043",
+      "system": "LA02",
+      "page": 110,
+      "source_snippet": "Druckdifferenzfühler Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R044",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Drehantrieb, 20 Nm, Stk. 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R045",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Drehantrieb, 5 Nm Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R046",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Kanalrauchmelder Stk. 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R047",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Druckwächter Stk. 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R048",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Frostschutzwächter, 2-Punkt Stk 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R049",
+      "system": "LA05",
+      "page": 191,
+      "source_snippet": "Druckdifferenzfühler Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R050",
+      "system": "LA01",
+      "page": 85,
+      "source_snippet": "mit Alu-Folie, gestiftet m2 18",
+      "quantity": "18",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R051",
+      "system": "LA01",
+      "page": 85,
+      "source_snippet": "mit Alu-Folie, gestiftet m2 220",
+      "quantity": "220",
+      "unit": "m2",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R052",
+      "system": "LA02",
+      "page": 108,
+      "source_snippet": "Druckverlust 31Pa Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R053",
+      "system": "LA02",
+      "page": 108,
+      "source_snippet": "Farbpfeile Stk 100",
+      "quantity": "100",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R054",
+      "system": "LA03",
+      "page": 136,
+      "source_snippet": "250 100 150 Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R055",
+      "system": "LA03",
+      "page": 136,
+      "source_snippet": "100 10 28.5x20.5 27 Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R056",
+      "system": "LA03",
+      "page": 136,
+      "source_snippet": "Druckverlust 36Pa Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R057",
+      "system": "LA03",
+      "page": 133,
+      "source_snippet": "Nachweis dem Bericht beilegen Stk 2",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R058",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Grösse (B x H) 17.5 x 49 x 24 cm Stk 24",
+      "quantity": "24",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R059",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Typ z.B. EBS-D-3-1 Stk 24",
+      "quantity": "24",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R060",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Grösse (B x H) 17.5 x 49 x 24 cm Stk 10",
+      "quantity": "10",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R061",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Typ z.B. EBS-D-3-1 Stk 10",
+      "quantity": "10",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R062",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Anschluss v. hinten 2 x 124 mm Stk 10",
+      "quantity": "10",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R063",
+      "system": "LA04",
+      "page": 161,
+      "source_snippet": "Anschluss v. hinten 2 x 179 mm Stk 12",
+      "quantity": "12",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R064",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "Grösse ø 10 cm Stk 6",
+      "quantity": "6",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R065",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "Grösse 40 x 20 cm Stk 20",
+      "quantity": "20",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R066",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "Grösse 40x20 cm Stk 20",
+      "quantity": "20",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R067",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "für Kanaleinbau Stk 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R068",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "Montagerahmen für isolierte Kanäle Stk 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R069",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "100 x 50 mm Stk 40",
+      "quantity": "40",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R070",
+      "system": "LA04",
+      "page": 165,
+      "source_snippet": "Farbpfeile Stk 150",
+      "quantity": "150",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R071",
+      "system": "LA04",
+      "page": 157,
+      "source_snippet": "1BS Bogen symmetrisch 400 350 90",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R072",
+      "system": "LA04",
+      "page": 157,
+      "source_snippet": "4BS Bogen symmetrisch 450 200 90",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R073",
+      "system": "LA04",
+      "page": 157,
+      "source_snippet": "1BS Bogen symmetrisch 450 350 90",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R074",
+      "system": "LA05",
+      "page": 185,
+      "source_snippet": "Grösse Ø 10 cm Stk 8",
+      "quantity": "8",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R075",
+      "system": "LA05",
+      "page": 185,
+      "source_snippet": "Grösse Ø 10 cm Stk 14",
+      "quantity": "14",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R076",
+      "system": "LA05",
+      "page": 186,
+      "source_snippet": "Grösse (B x H) 40 x 10 cm Stk 4",
+      "quantity": "4",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R077",
+      "system": "LA05",
+      "page": 186,
+      "source_snippet": "Grösse (B x H) 50 x 10 cm Stk 10",
+      "quantity": "10",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R078",
+      "system": "LA05",
+      "page": 189,
+      "source_snippet": "Druckverlust 17Pa Stk 1",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R079",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "1BO Boden 100 350",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R080",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "2BO Boden 250 600",
+      "quantity": "2",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R081",
+      "system": "LA03",
+      "page": 131,
+      "source_snippet": "1BO Boden 350 100",
+      "quantity": "1",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R082",
+      "system": "ROOF",
+      "page": 197,
+      "source_snippet": "Montagefüsse z.B. Stk 150",
+      "quantity": "150",
+      "unit": "pc",
+      "context": "",
+      "product_id": null
+    },
+    {
+      "id": "R083",
+      "system": "ROOF",
+      "page": 197,
+      "source_snippet": "Montageschiene z.B. m 500",
+      "quantity": "500",
+      "unit": "m",
+      "context": "",
+      "product_id": null
+    }
+  ]
+}

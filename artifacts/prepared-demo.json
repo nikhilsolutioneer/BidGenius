@@ -1,0 +1,74 @@
+{
+  "prepared_at": "2026-10-10T18:56:59Z",
+  "demo_label": "Prepared demo | 2026-10-10T18:56:59Z",
+  "base_url": "http://127.0.0.1:8000",
+  "project_id": "project_91270561b28e41fd",
+  "project_name": "Primary School Oberglatt - Ventilation",
+  "run_id": "run_fa975cadd13d484c",
+  "revision": 1,
+  "mode": "Fresh local parser import; no model call or simulated progress",
+  "clean_project": true,
+  "source_sha256": "d072092b1c619584666ea4368745382585c4db43eb2e9b38633c058ed62dab06",
+  "processing_seconds": 55.035,
+  "coverage": {
+    "pages_processed": 202,
+    "total_pages": 202,
+    "positions_extracted": 679,
+    "positions_manual": 0,
+    "positions_priced": 137,
+    "positions_unpriced": 542,
+    "pending_reviews": 378,
+    "unassigned_blocks": 11,
+    "failed_pages": 0,
+    "partial_pages": 1,
+    "approved_positions": 0,
+    "supplier_quotes_required": 205,
+    "unresolved_by_cause": {
+      "missing_quantity": 22,
+      "missing_material_reference": 542,
+      "missing_installation_rule": 177,
+      "technical_conflict": 111,
+      "quotation_required": 205
+    },
+    "partial_cost_positions": 365
+  },
+  "totals": {
+    "material_cost_chf": "868733.98",
+    "labour_cost_chf": "403779.98",
+    "installation_hours": "3830.27",
+    "cost_baseline_chf": "1568823.53",
+    "selling_price_chf": "1661000.00"
+  },
+  "commercial_context": {
+    "selected_record_ids": [],
+    "adopt_observed_win_rate": false,
+    "adopt_reference_ratio": false,
+    "adoption_rationale": "",
+    "capacity": {
+      "period_start": null,
+      "period_end": null,
+      "available_hours": null,
+      "committed_hours": null
+    },
+    "scenario_overrides": {},
+    "comparable_snapshot": []
+  },
+  "scenario_reference": {
+    "defaults_available": true,
+    "source": "project_parameters.json",
+    "reference_price_chf": "1660130.72",
+    "reference_margin_pct": "5.5",
+    "default_reference_price_chf": "1660130.72",
+    "default_reference_margin_pct": "5.5",
+    "reference_price_differs_from_default": false,
+    "reference_margin_differs_from_default": false
+  },
+  "run_errors": [
+    "Page 201: partial"
+  ],
+  "export": {
+    "url": "/api/exports/TenderProof_R1_export_7d2ca1115e4c4a61.zip",
+    "filename": "TenderProof_R1_export_7d2ca1115e4c4a61.zip",
+    "revision": 1
+  }
+}

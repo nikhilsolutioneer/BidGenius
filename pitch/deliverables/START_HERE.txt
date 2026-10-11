@@ -1,0 +1,27 @@
+BIDGENIUS AI — YOUR HACKATHON PRESENTATION
+
+1. Open BidGenius_AI_Hackathon.pptx in PowerPoint.
+   The five-minute presentation has 10 main slides.
+   Three extra Q&A slides are hidden after the closing slide.
+   Each slide includes its script, timing and delivery cues in Notes.
+
+2. Rehearse with BidGenius_AI_Presenter_Guide.pdf.
+   Read the script paragraphs aloud; do not read the cue labels or directions.
+   The guide also includes a shorter three-minute script and judge Q&A.
+   Use its first page as a printed cue sheet.
+
+3. Use BidGenius_AI_Hackathon.pdf as a ten-slide fallback.
+   The PowerPoint contains the editable slide text and shapes.
+   Product screenshots are embedded, so the deck needs no internet connection.
+
+The screenshots show the prepared 10 October 2026 demo snapshot.
+The saved application may contain later changes and different figures.
+The default presentation uses screenshots and does not require a live demo.
+
+Rebuild from the project root:
+  .venv\Scripts\python.exe pitch\prepare_pitch_assets.py
+  node pitch\build_hackathon.mjs
+  cscript.exe //Nologo pitch\render_native.vbs
+  node pitch\build_presenter_guide.mjs
+
+The existing pitch/BidGenius_AI_Pitch.pptx and application files were preserved.

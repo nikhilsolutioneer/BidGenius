@@ -1,0 +1,251 @@
+{
+  "project": "BidGenius AI",
+  "audience": "Hackathon judges",
+  "format": "Prepared screenshot walkthrough; live demo optional",
+  "total_seconds": 300,
+  "spoken_word_count": 521,
+  "simple_instruction": "Read only the script paragraphs aloud. Cue words and delivery instructions are reminders, not spoken text. Use the pauses to point at the evidence.",
+  "snapshot_note": "Screenshots and prepared-run numbers refer to the documented 10 October 2026 revision 1 snapshot. The current saved workspace contains later user edits. Do not describe a screenshot as a fresh live run or assume current financial values match it.",
+  "main": [
+    {
+      "slide": 1,
+      "title": "A first price you can explain",
+      "seconds": 25,
+      "cue": "Explain the price",
+      "script": "Imagine being asked to defend a tender price, line by line. Could you show where every number came from? We built BidGenius AI to help estimators reach a first price they can explain, with the source, the calculation, and the open questions together.",
+      "delivery": "Start looking at the judges. Pause after the question, then say the product name slowly.",
+      "time_range": "0:00–0:25",
+      "word_count": 43
+    },
+    {
+      "slide": 2,
+      "title": "202 pages, one pricing decision",
+      "seconds": 25,
+      "cue": "Three jobs",
+      "script": "Our case is a two-hundred-and-two-page ventilation tender for a school in Oberglatt, Switzerland. An estimator must understand the scope, connect it to catalogue references, and calculate installation labour. Those jobs are connected. Miss a quantity or misunderstand an exclusion, and the price can look precise while the underlying decision is wrong.",
+      "delivery": "Point once to each of the three jobs. Do not read every label.",
+      "time_range": "0:25–0:50",
+      "word_count": 51
+    },
+    {
+      "slide": 3,
+      "title": "Read, match, calculate, review",
+      "seconds": 30,
+      "cue": "People decide",
+      "script": "This is a prepared snapshot of the working application. It reads the documents, proposes matches, calculates costs, and brings unresolved items into review. AI can help interpret the text and suggest references. The maths follows explicit rules. The estimator makes the decision. This overview shows the draft price and what still needs attention.",
+      "delivery": "Point to the overview screenshot, then look back at the judges for the final two sentences.",
+      "time_range": "0:50–1:20",
+      "word_count": 53
+    },
+    {
+      "slide": 4,
+      "title": "Open the price, see the proof",
+      "seconds": 35,
+      "cue": "Follow one line",
+      "script": "Take this insulation line from system L A zero two. Page one hundred and thirteen specifies three hundred and ten square metres. We can open that evidence, inspect catalogue reference P INS zero zero two, and follow the labour rule. That makes the cost explainable. The reference still needs review; it does not prove technical equivalence.",
+      "delivery": "Move your pointer from source evidence to catalogue reference to labour. Say the quantities slowly.",
+      "time_range": "1:20–1:55",
+      "word_count": 56
+    },
+    {
+      "slide": 5,
+      "title": "Needs your decision",
+      "seconds": 30,
+      "cue": "Read the exclusion",
+      "script": "Now look at page one hundred and ten. A note flags scope for a separate tender, while nearby items can still carry installation obligations. The estimator must check which instruction applies. They can include a position, keep installation only, or exclude it. A reason and a new revision preserve how that decision changed the estimate.",
+      "delivery": "Point to the German note, then to the three scope choices. Explain the ambiguity without implying everything on page 110 is excluded.",
+      "time_range": "1:55–2:25",
+      "word_count": 55
+    },
+    {
+      "slide": 6,
+      "title": "Compare the bid before committing",
+      "seconds": 25,
+      "cue": "Compare assumptions",
+      "script": "Next, we compare aggressive, target, and conservative bids. The estimator can preview changes and see the effect on price, margin, and contribution before accepting them. The displayed win probabilities are illustrative assumptions. They help explore a decision, but they are not reliable predictions of winning.",
+      "delivery": "Trace the three scenario cards with one gesture. Emphasize the word 'illustrative'.",
+      "time_range": "2:25–2:50",
+      "word_count": 45
+    },
+    {
+      "slide": 7,
+      "title": "What we measured",
+      "seconds": 50,
+      "cue": "Three separate checks",
+      "script": "Here is the evidence, with the tests kept separate. One prepared local run produced a draft in about fifty-five seconds. It attempted all two hundred and two pages, with one partial page. A separate live run, combining AI and local fallbacks, found eighty of eighty-three sampled rows and their explicit quantities and units. That measures extraction on a selected sample, not pricing accuracy. The local checks also passed all twenty-two supplied examples. These results support a prototype; they do not prove a complete tender.",
+      "delivery": "Slow down. Pause between the local run, live sample, and supplied examples. Do not read the decimal seconds aloud.",
+      "time_range": "2:50–3:40",
+      "word_count": 84
+    },
+    {
+      "slide": 8,
+      "title": "Complete the handover",
+      "seconds": 25,
+      "cue": "Carry the evidence",
+      "script": "The output is a reviewable handover. It includes source evidence, the cost build-up, unresolved scope, and draft exports tied to a specific revision. Another estimator can see what was included, what was assumed, and what still needs a decision.",
+      "delivery": "Point to the handover items, then say the last sentence to the judges.",
+      "time_range": "3:40–4:05",
+      "word_count": 39
+    },
+    {
+      "slide": 9,
+      "title": "Prove value with estimators",
+      "seconds": 30,
+      "cue": "Pilot, then measure",
+      "script": "Our next step is a pilot with estimators using five to ten historical tenders. We would measure review time, corrections, and pricing coverage against their existing process. We also need real supplier quotes, authentication, and team collaboration. We have not measured return on investment yet. The pilot should tell us where the product creates value.",
+      "delivery": "Present the pilot as a proposal. Keep your voice steady when naming the remaining work.",
+      "time_range": "4:05–4:35",
+      "word_count": 55
+    },
+    {
+      "slide": 10,
+      "title": "Read the tender. See the gaps. Defend the price.",
+      "seconds": 25,
+      "cue": "Make the ask",
+      "script": "BidGenius AI brings the tender, the estimate, and the reasons behind it into one workspace. Read the tender. See the gaps. Defend the price. We are asking for an estimator partner and historical tenders to run that pilot. Thank you.",
+      "delivery": "Look at the judges. Pause between the three short lines, make the ask, and stop after 'Thank you'.",
+      "time_range": "4:35–5:00",
+      "word_count": 40
+    }
+  ],
+  "rehearsal": [
+    "Practise the first two sentences and the final ask until you can say them without reading.",
+    "Speak slightly slower than everyday conversation. Aim for around 110–120 words per minute and use the remaining time for pauses and pointing.",
+    "Look at one judge for one full sentence, then change to another. A calm voice is more useful than a dramatic voice.",
+    "Keep a printed cue sheet with one cue per slide. If you lose your place, say the cue in your own words and continue.",
+    "Use only one clear pointer movement on each screenshot. Do not explain every button or read every number.",
+    "Record one full rehearsal. If it runs long, shorten the explanation of slide 6; keep the evidence caveats on slide 7.",
+    "When a judge asks a question, pause, answer the direct question in one sentence, then add one supporting fact."
+  ],
+  "pronunciation": [
+    {
+      "term": "BidGenius AI",
+      "say": "Bid JEE-nee-us, A I"
+    },
+    {
+      "term": "LA02",
+      "say": "L A zero two"
+    },
+    {
+      "term": "P-INS-002",
+      "say": "P INS zero zero two"
+    },
+    {
+      "term": "310 m²",
+      "say": "three hundred and ten square metres"
+    },
+    {
+      "term": "55.035 s",
+      "say": "about fifty-five seconds"
+    },
+    {
+      "term": "80/83",
+      "say": "eighty out of eighty-three"
+    },
+    {
+      "term": "CHF",
+      "say": "Swiss francs"
+    }
+  ],
+  "three_minute_shortcut": {
+    "instruction": "Use these shorter lines with the same ten slides; do not skip the sample limitation or pilot ask.",
+    "total_seconds": 180,
+    "slides": [
+      {
+        "slide": 1,
+        "seconds": 15,
+        "script": "Could you defend a tender price, line by line? BidGenius AI helps estimators reach a first price they can explain."
+      },
+      {
+        "slide": 2,
+        "seconds": 15,
+        "script": "Our case is a two-hundred-and-two-page ventilation tender. Estimators must understand scope, find catalogue references, and calculate installation labour. Missing one link weakens the price."
+      },
+      {
+        "slide": 3,
+        "seconds": 20,
+        "script": "This prepared screenshot shows the working application: read, match, calculate, review. AI proposes interpretations and references. Explicit rules calculate the costs. The estimator makes the decision."
+      },
+      {
+        "slide": 4,
+        "seconds": 20,
+        "script": "Here is one real line: three hundred and ten square metres of insulation on page one hundred and thirteen. We can inspect the source, catalogue reference, and labour rule together."
+      },
+      {
+        "slide": 5,
+        "seconds": 20,
+        "script": "Page one hundred and ten includes a separate-tender note alongside installation obligations. The estimator resolves each position: include, installation only, or exclude. The decision gets a reason and a revision."
+      },
+      {
+        "slide": 6,
+        "seconds": 15,
+        "script": "Aggressive, target, and conservative scenarios show the trade-offs before changes are accepted. The displayed win probabilities are illustrative assumptions, not reliable predictions."
+      },
+      {
+        "slide": 7,
+        "seconds": 35,
+        "script": "One local run created a draft in about fifty-five seconds, attempting all two hundred and two pages with one partial page. Separately, AI plus local fallbacks found eighty of eighty-three sampled rows and their explicit quantities and units. This is sampled extraction evidence, not pricing accuracy. Local checks also passed the twenty-two supplied examples."
+      },
+      {
+        "slide": 8,
+        "seconds": 10,
+        "script": "The handover carries source evidence, cost build-up, unresolved scope, and draft exports tied to a revision."
+      },
+      {
+        "slide": 9,
+        "seconds": 15,
+        "script": "Next, we propose testing five to ten historical tenders with estimators, measuring review time, corrections, and coverage. Real quotes and production features remain work to do."
+      },
+      {
+        "slide": 10,
+        "seconds": 15,
+        "script": "Read the tender. See the gaps. Defend the price. We are asking for an estimator partner and historical tenders to run that pilot. Thank you."
+      }
+    ]
+  },
+  "qa": [
+    {
+      "question": "Was the fifty-five-second result an AI run?",
+      "answer": "No. The 55.035-second measurement was one prepared local-parser run on this laptop. It made no model calls. The separate live AI run used AI and local validation fallbacks; we report its extraction sample separately.",
+      "evidence": "artifacts/prepared-demo.json; docs/VALIDATION.md"
+    },
+    {
+      "question": "Is this a complete price ready to submit?",
+      "answer": "It is a draft for estimator review. The prepared snapshot has 542 unpriced positions, one partially readable page, and unresolved scope. Supplier quotes and referenced drawings are still missing. The product exports the gaps along with the estimate.",
+      "evidence": "README.md; artifacts/prepared-demo.json; docs/VALIDATION.md"
+    },
+    {
+      "question": "How accurate is the AI?",
+      "answer": "In a selected 83-row sample, the mixed AI and local-fallback run detected 80 rows and correctly captured explicit quantity and unit for those 80. This does not measure complete-tender recall, precision, technical equivalence, or pricing accuracy. We need broader evaluation with estimators.",
+      "evidence": "docs/VALIDATION.md; artifacts/live-holdout-evaluation.json"
+    },
+    {
+      "question": "Why use this instead of a spreadsheet?",
+      "answer": "The prototype links an estimate line to its source evidence, catalogue reference, installation rule, and recorded review decision. It also preserves revisions and exports the unresolved items. The pilot should test whether those links make review faster and more reliable.",
+      "evidence": "README.md"
+    },
+    {
+      "question": "Is it ready for production, and where does data go?",
+      "answer": "The current prototype is a local, single-user workspace. Ordinary review and calculation work locally. Optional AI processing sends selected source excerpts and catalogue data to an external OpenAI service. Authentication, team collaboration, and production deployment controls still need work.",
+      "evidence": "README.md; docs/ARCHITECTURE.md"
+    },
+    {
+      "question": "What savings or return on investment have you proven?",
+      "answer": "We have measured processing and sample checks, but not customer time savings or return on investment. The proposed historical-tender pilot would compare review time, corrections, and coverage against the existing estimator process.",
+      "evidence": "Proposed pilot; no measured ROI claim"
+    }
+  ],
+  "demo_fallback": {
+    "default": "Present the prepared screenshots. This keeps the five-minute talk independent of internet access or a live application.",
+    "optional_live": "If using the live workspace, rehearse the selected positions and visible totals first. It may now contain later edits and a different revision. Do not reset saved user work to force a match with the deck.",
+    "failure_line": "These slides show the documented prepared run. I can still walk through the source, the calculation, and the decisions.",
+    "honesty": "Do not call cached data a new extraction, describe local parsing as a live AI run, or imply that a draft export is an approved submission."
+  },
+  "source_files": [
+    "README.md",
+    "docs/VALIDATION.md",
+    "docs/DEMO.md",
+    "artifacts/prepared-demo.json",
+    "Schulhaus_Oberglatt_Hackathon_Starter_Package_v2/catalog.csv"
+  ]
+}

@@ -1,0 +1,1097 @@
+0	KALKULATIONSANALYSE
+1	Kosten verstehen. Lücken erkennen.
+2	Erkennen Sie die Kostentreiber und treffen Sie die nächste fundierte Entscheidung.
+3	Annahmen prüfen
+4	Angebot für erfassten Umfang
+5	Gespeicherter Richtpreis · ohne MwSt.
+6	Vergleichswert für unbepreisten Umfang
+7	Nicht verfügbar
+8	Orientierungsbereich · nicht im Angebot enthalten
+9	Noch ohne Vergleichsbasis
+10	Positionen
+11	Unbekannte Kosten bleiben ausserhalb dieser Spanne
+12	weist die höchsten zugeordneten Kosten auf:
+13	. Beginnen Sie hier mit der Kostenoptimierung; priorisieren Sie Offertanfragen anhand der unbepreisten Leistungen.
+14	Prüfen Sie Kostentreiber und ungeklärte Leistungen vor der Angebotsabgabe.
+15	Positionen prüfen
+16	Material- und Lohnkosten
+17	Wie viel Leistungsumfang ist bepreist?
+18	So setzt sich die Kalkulation zusammen
+19	Prüfen Sie die Kostenverteilung und den Umfang ungeklärter Leistungen.
+20	Kosten- und Abdeckungsdiagramm
+21	Kostenverteilung
+22	Preisabdeckung
+23	Kostenaufbau
+24	Verteilung der Material- und Lohnkosten
+25	Bekannte Kosten
+26	Nur bekannte Material- und Lohnkosten. Weitere Zuschläge, Gemeinkosten, Marge und unbepreiste Leistungen sind ausgeschlossen.
+27	Material
+28	Lohn
+29	Preisabdeckung nach Positionsanzahl
+30	Positionen
+31	Positionsanzahl, keine Wertanteile. Unbepreiste Positionen haben unbekannte Kosten, nicht Kosten von null.
+32	Bepreist
+33	{0} Positionen
+34	Anderweitig enthalten
+35	Unbepreist
+36	Lokaler Kalkulator
+38	Volumenstrom (m³/h)
+39	Breite (mm)
+40	Höhe (mm)
+41	Durchmesser (mm)
+42	Winkel (°)
+43	Brandschutzklasse
+44	Grosses Lüftungsgerät
+45	Montage Rechteckkanal
+46	Montage Rundkanal
+47	Montage Kanalformteil
+48	Katalog-Flächenpreis für gerade Kanäle
+49	Flächenpreisannahme für LT-Formteile
+50	Flächenfaktor für LT-Formteile
+51	Kalkulationsentwurf
+52	Kalkulationsgrundlage
+53	Ähnlicher Katalogartikel
+54	Preis eines ähnlichen Katalogartikels
+55	Quellzeilen
+56	Text ohne Positionszuordnung
+57	Einheit: m²
+59	Noch nicht verarbeitet
+60	Lokale Extraktion
+61	Zuerst lokal, dann KI für Lücken
+62	KI-Extraktion
+63	Lokale und KI-Extraktion
+64	Lokale Extraktion
+65	Schritt 1 von 2 · {0}
+66	KI-Prüfung
+67	Schritt 2 von 2 · {0}
+68	Auswahl ungeklärter Angaben für die KI
+69	Schritt 2 von 2 · Auswahl ungeklärter Angaben für die KI
+70	Für die KI ausgewählte ungeklärte Positionen
+71	Für die KI ausgewählte Quellblöcke
+72	Durch KI hinzugefügte Positionen
+73	KI-Präzisierungen zur Prüfung
+74	Übersprungene KI-Prüfpakete
+75	Erfolgreiche KI-Prüfpakete
+76	Fehlgeschlagene KI-Prüfpakete
+77	Aus dem Cache übernommene KI-Prüfpakete
+78	Entwurf
+79	Bereit zur Prüfung
+80	Freigegeben
+81	Eingereicht
+82	Management
+83	Kalkulator
+84	Warum dieses Angebot von {0} zu {1} ändern?
+85	Status auf {0} geändert.
+86	Verbindung zum lokalen Server fehlgeschlagen. {0}
+87	Verarbeitung abgeschlossen. Ihre Kalkulation ist zur Prüfung bereit.
+88	Verarbeitung {0}.
+89	Kein Projekt ausgewählt.
+90	Revision {0} gespeichert{1}{2}
+91	/ Kostenänderung {0}
+92	/ Angebotsänderung {0}
+93	Diese Entscheidung rückgängig machen
+94	Eine Gegenrevision erstellen für: {0}
+95	Positionsprüfung bestätigen
+96	Bestätigen Sie die geprüfte Menge, Preisgrundlage und Annahmen. Die technische Gleichwertigkeit ist separat zu beurteilen.
+97	Kaufmännische Anpassung freigeben
+98	Kaufmännische Anpassung ablehnen
+99	Der freigegebene Betrag wird in den Kostenaufbau übernommen.
+100	Dieser Betrag wird von der Kalkulation ausgeschlossen.
+101	Gespeicherte Verarbeitung fortsetzen
+102	Kalkulationsprüfung abschliessen
+103	Am gespeicherten Prüfpunkt fortsetzen. Abgeschlossene Verarbeitungspakete bleiben erhalten.
+104	Vor Abschluss der Prüfung kontrolliert das System offene Blockaden.
+105	Übersicht
+106	Kalkulation
+107	Analysen
+108	Szenarien
+109	Export
+110	Variantenname
+111	{0} — Variante
+112	Name des Kalkulators
+113	Mein Arbeitsbereich
+114	Equans Schweiz
+116	KI
+117	Intelligenter kalkulieren.
+118	Besser anbieten.
+119	Mehr gewinnen.
+120	— Unterstützt durch KI.
+121	Intelligente Angebotskalkulation für die Baubranche
+122	WILLKOMMEN ZURÜCK
+123	Arbeitsbereich öffnen
+124	Wählen Sie Ihre Zugriffsrolle, um fortzufahren.
+125	Administratorname
+126	Administratorname eingeben
+127	Ihren Namen eingeben
+128	Administrator
+129	Arbeitsbereich öffnen
+130	Demo-Zugang · Produktion verwendet Entra ID
+131	BidGenius AI Übersicht
+135	Equans Organisation
+136	Für Equans Kalkulatoren entwickelt
+137	Lokale Umgebung
+138	Alle Kalkulatoren
+139	Angebote
+140	ARBEITSBEREICH
+141	Hauptnavigation
+142	nav-item {0}
+143	PROJEKT
+144	Ausschreibung importieren
+145	Gespeicherte Projekte
+146	Lokale Speicherung · KI erhält nur ausgewählte Auszüge (store=false)
+147	Vollständig lokal · keine KI-Aufrufe
+148	KI interpretiert ausgewählte Auszüge. Sie kontrollieren jede Entscheidung.
+149	Lokale Extraktion ist verfügbar. Aktivieren Sie KI bei Bedarf.
+150	Organisation
+151	Ausschreibungs-Arbeitsbereich
+152	Neue Kalkulation
+153	Revision
+154	gespeichert
+156	KI konfiguriert
+157	Lokaler Modus
+158	Profilmenü öffnen
+159	Profil verwalten
+160	Abmelden
+161	Seiten · BKP 244
+163	Angebotsstatus
+164	Vorbereitete Demo ·
+165	Verarbeitung läuft…
+166	Verarbeitungsprotokoll
+167	Laufdetails
+168	Kalkulation exportieren
+169	Fehlermeldung schliessen
+170	Lokaler Arbeitsbereich wird geöffnet…
+171	{0}/{1} KI-Prüfpakete · {2} lokal erkannte Positionen
+172	{0}/{1} Seiten · {2}/{3} {4}Verarbeitungspakete
+173	Fortschritt der KI-Prüfung
+174	Fortschritt der Dokumentextraktion
+175	Fortschritt anzeigen
+176	Verarbeitung
+177	. Abgeschlossene Arbeit wurde gespeichert.
+178	Fortsetzen
+179	Ausschreibungsanforderung prüfen
+180	Kalkulations-Arbeitsbereich wird vorbereitet…
+181	Arbeitsbereich wird aktualisiert…
+182	Benachrichtigung schliessen
+183	Projekte und Kalkulationsrevisionen werden auf diesem Computer gespeichert.
+184	Noch keine Projekte. Importieren Sie ein Paket oder laden Sie Oberglatt.
+185	Vorbereitete Demo · {0} ·
+186	Als Variante duplizieren
+187	Projekt importieren
+188	Gespeicherter Fortschritt und Ergebnisse dieses Verarbeitungslaufs.
+189	Verarbeitete Seiten
+190	Abgeschlossene lokale Pakete
+191	Abgeschlossene Verarbeitungspakete
+192	In diesem Lauf erfasste Positionen
+193	Jedes lokale Paket enthält bis zu 4 Seiten aus demselben Anlagenabschnitt.
+194	Aktuelle Kalkulation:
+195	manuell hinzugefügt). Der Lauf zeigt eine gespeicherte Momentaufnahme; spätere Änderungen stehen in der Übersicht.
+196	Gestartet
+197	· Abgeschlossen {0}
+198	Gemessene Verarbeitungszeit:
+199	Sekunden.
+200	Modell des gespeicherten Prüfergebnisses
+201	Konfiguriertes Prüfmodell
+202	Verwendetes Modell
+203	KI war für diesen Lauf nicht aktiviert.
+204	Verarbeitungsnutzung
+205	Lokale und gespeicherte Pakete beschreiben die Verarbeitung. Tokens messen den Text, der an das KI-Modell gesendet und von ihm erzeugt wird.
+206	{0} Einträge
+207	Abgeschlossene Läufe zeigen bereits verarbeitete Ergebnisse. Lokale Änderungen, Neuberechnung und Export bleiben offline verfügbar.
+208	Kein Verarbeitungslauf erfasst.
+209	Abbruch am nächsten sicheren Haltepunkt angefordert.
+210	Verarbeitung stoppen
+211	Prüfung abschliessen
+212	Gespeicherten Lauf fortsetzen
+213	Erneut verarbeiten
+214	Schliessen
+215	Verarbeitungsoptionen
+216	Das gesamte Dokument wird lokal extrahiert; ungeklärte Angaben können anschliessend durch KI geprüft werden. Berechnungen erfolgen immer lokal.
+217	1. Lokale Dokumentextraktion
+218	Unterstützte Leistungsverzeichnisse ohne externen Dienst extrahieren. Unklare Leistungen bleiben zur Prüfung sichtbar.
+219	Verfügbar
+220	Zum Aktivieren der KI OPENAI_API_KEY in der lokalen .env-Datei setzen und den Server neu starten. Der Schlüssel gelangt nie in den Browser.
+221	Konfiguriertes Modell:
+222	Ein neuer Lauf verarbeitet die Quellpositionen erneut. Erfasste Kalkulatorentscheidungen bleiben im Projektverlauf erhalten.
+223	Verarbeitung starten
+224	Prüfpunkt klären
+225	Unklaren Leistungsumfang klären
+226	Einschliessen: Lieferung und Montage
+227	Nur Montage: Lohnkosten, kein Material
+228	Ausschliessen: durch Dritte
+229	Warten auf den Abschluss der lokalen Extraktion.
+230	Ungeklärte Angaben werden für die KI-Prüfung ausgewählt.
+231	Keine geeigneten ungeklärten Angaben für die KI-Prüfung. Es wurden keine KI-Aufrufe ausgeführt.
+232	Die KI-Prüfung wurde noch nicht gestartet. Es wurden keine KI-Aufrufe ausgeführt.
+233	Die KI-Prüfung war nicht erfolgreich. Lokale Ergebnisse bleiben erhalten.
+234	{0}/{1} Prüfpakete abgeschlossen. {2} erfolgreiche Aufrufe, {3} aus dem Cache übernommen, {4} fehlgeschlagen.
+235	Verarbeitungsphasen
+236	1. Lokale Extraktion
+237	Pakete im gesamten Dokument verarbeitet.
+238	{0} lokal erkannte Positionen
+239	Positionen ohne KI erkennen
+240	2. KI-Prüfung ungeklärter Angaben
+241	ungeklärte Positionen ·
+242	Quellblöcke ausgewählt
+243	Positionen hinzugefügt ·
+244	Nur Extraktionslücken werden mit relevanten Quellauszügen, lokalen Ergebnissen und fehlenden Angaben an die KI gesendet. KI-Ergebnisse müssen vom Kalkulator geprüft werden.
+246	Ungeklärte Angaben mit KI prüfen
+247	Starten Sie die App nach Abschluss des aktuellen Laufs neu, um die KI-Prüfung ungeklärter Angaben zu aktivieren.
+248	Zuerst wird das gesamte Dokument lokal extrahiert. Danach erhält die KI nur nicht erkannte oder unvollständige Angaben, relevante Quellauszüge und lokale Ergebnisse. Eindeutige Angaben bleiben lokal.
+249	FÜR KALKULATOREN ENTWICKELT
+250	Von der Ausschreibung
+251	zum
+252	fundierten Angebot.
+253	Erstellen Sie aus komplexen Ausschreibungsunterlagen eine transparente Erstkalkulation. Verfolgen Sie jede Zahl, klären Sie Unsicherheiten und treffen Sie fundierte kaufmännische Entscheidungen.
+254	Oberglatt wird geöffnet…
+255	Ausschreibung Oberglatt erkunden
+256	Paket importieren
+257	Lokaler Arbeitsbereich
+258	Nachweise bei jedem Schritt
+259	PRIMARSCHULE OBERGLATT
+261	Architektonische Linienzeichnung eines Schulgebäudes
+263	LÜFTUNGSANLAGEN
+264	NACHVOLLZIEHBARE MENGENERMITTLUNG
+265	Quelle → Menge → Preis
+266	Eine verknüpfte, prüfbare Kalkulation
+267	Originalausschreibung
+268	Katalog
+269	Montageregeln
+270	Leistungsumfang verstehen
+271	Die gesamte Ausschreibung verarbeiten und deutsche Originalnachweise erhalten.
+272	Kalkulation aufbauen
+273	Katalogreferenzen, Montageregeln und transparente Kosten verknüpfen.
+274	Sicher prüfen
+275	Widersprüche klären, Annahmen festhalten und Nachweise exportieren.
+276	BIDGENIUS AI · KALKULATIONS-ARBEITSBEREICH
+277	Lokale Infrastruktur. Menschliche Entscheidung.
+278	Ausschreibungspaket importieren
+279	Wählen Sie das ZIP-Paket oder PDF und Referenzdateien gemeinsam aus.
+280	Ausschreibungsdateien auswählen
+281	ZIP, PDF, Katalog-CSV, Produktivitäts-CSV, Projekt-JSON
+283	KI ist nicht konfiguriert. Dieses Paket wird lokal verarbeitet.
+284	Originaldateien bleiben unverändert. Der Server prüft das Paket vor Beginn der lokalen Extraktion.
+285	Abbrechen
+286	Import läuft…
+287	Importieren und verarbeiten
+288	Einschliessen (Lieferung + Montage)
+289	Nur Montage (Lohn)
+290	Ausschliessen (durch Dritte)
+291	Quellnachweise
+292	Seite prüfen
+293	Original-PDF
+294	Nachweise werden geladen…
+295	Dieser Prüfpunkt betrifft die Vollständigkeit des Pakets oder eine Kalkulationsannahme.
+296	Ungeklärt lassen
+297	Als geprüft markieren
+298	Diesen Preis erklären
+299	Was sollte ich zuerst prüfen?
+300	Warum ist so viel unbepreist?
+301	Diese Berechnung erklären
+302	Ist diese Zuordnung zuverlässig?
+303	Quelltext anzeigen
+304	Die drei Angebote vergleichen
+305	Was bedeutet Zielmarge hier?
+306	Was enthält das Prüfpaket?
+307	Ist das bereit zum Versand?
+309	Hallo {0}, ich bin Ihr Angebotsassistent.
+310	Hier ist Ihre Einführung in fünf Schritten, {0}: 1. Übersicht — Angebotspreis, Kostenbasis, Abdeckung und offene Punkte prüfen. 2. Kalkulation — Mengen, Berechnung, Zuordnung und Verlauf prüfen. 3. Quell-PDF — deutschen Ausschreibungstext und Belegseite prüfen. 4. Was-wäre-wenn — Annahmen testen; Änderungen erfordern eine Begründung und erzeugen eine Revision. 5. Export — Prüfpaket vor dem Versand kontrollieren.
+311	Assistent nicht verfügbar ({0}).
+312	Ich konnte das in der ausgewählten Ausschreibung nicht finden.
+314	BidGenius fragen
+315	BidGenius Assistent für {0}
+317	BidGenius Assistent
+318	Offline-Hilfemodus
+319	Bereit für {0}
+320	Neuer Chat
+321	Assistent schliessen
+322	Hallo
+323	, ich bin Ihr Angebotsassistent.
+324	Ich kann die ausgewählte Ausschreibung erklären, Positionen finden und Sie durch die Prüfung führen. Stellen Sie eine Frage oder starten Sie die Einführung in fünf Schritten.
+325	Einführung starten
+327	Antwort kopieren
+328	Antwort teilen
+329	Frage zu dieser Kalkulation…
+330	Nachricht an den BidGenius Assistenten
+331	Nachricht senden
+332	Daten anzeigen
+333	Diagramm vergrössern
+334	Vergrössern ↗
+335	Vergrösserte Ansicht
+336	Diagramm
+337	Tabelle
+338	Für diese Revision ist keine Szenariokurve verfügbar.
+339	Preis und illustrative Zuschlagswahrscheinlichkeit. Jeder Preis verwendet die Marge seiner Strategie.
+340	Punkt
+341	Preis
+342	Marge
+343	Zuschlagswahrscheinlichkeit
+344	Erwarteter Deckungsbeitrag
+345	Preis und illustrative Zuschlagswahrscheinlichkeit
+346	Kurve von Preis und illustrativer Zuschlagswahrscheinlichkeit.
+347	{0} · {1}% Marge · {2}% Zuschlagswahrscheinlichkeit
+348	Vom System berechnete Szenario-Heuristik
+349	Illustrative Heuristik aus Projektparametern – keine kalibrierte Prognose.
+350	Kategorie
+351	Anteil
+352	Keine Daten
+353	Kostenkonzentration nach Anlage
+354	Grösste Vergleichszuschläge für unbepreiste Leistungen
+355	Unbepreiste Positionen nach Anlage
+356	Konzentrieren Sie die Kostenoptimierung auf die grössten zugeordneten Anlagenkosten. Unbepreiste Leistungen sind nicht enthalten.
+357	Priorisieren Sie Offerten für die zehn grössten Vergleichslücken im Median. Nur zur Orientierung, nicht im Angebot enthalten. Positionen ohne Grundlage sind ausgeschlossen und nicht mit null bewertet.
+358	Konzentrieren Sie die Kalkulation auf Anlagen mit den meisten ungeklärten Positionen. Die Anzahl zeigt den Arbeitsaufwand, nicht das Kostenrisiko.
+359	{0} Positionen · {1} unbepreist
+360	Kalkulationsdiagramm
+361	Kosten nach Anlage
+362	Unbepreistes Kostenrisiko
+363	Prüfaufwand
+364	Anlage / Referenz
+365	Details
+366	Unbepreiste Positionen
+367	Für dieses Diagramm sind keine Daten verfügbar.
+368	Betroffene CHF nach Prüfursache. Ursachen können sich überschneiden.
+369	Ursache
+370	Betroffene CHF
+371	Betroffene CHF nach Prüfursache
+372	{0} · {1} Positionen
+373	Bepreister enthaltener Umfang
+374	Verkaufspreis des enthaltenen Umfangs
+376	Unterer bis oberer Zuschlag; kaufmännische Annahmen werden separat angewendet
+377	Risikodiagramm. Enthaltener Verkaufspreis {0} und Vergleichskosten für unbepreiste Leistungen von {1} bis {2}. Kaufmännische Annahmen werden separat angewendet.
+378	Segment
+379	Wert
+380	Enthaltener Verkaufspreis
+381	Unterer Risikowert
+382	Median des Risikos
+383	Oberer Risikowert
+384	Preissicherheit. Bepreist {0}. Unbepreiste Spanne von {1} bis {2}.
+385	Risikodiagramm: enthaltener Verkaufspreis {0} plus Vergleichskosten von {1} bis {2}. Kaufmännische Annahmen werden separat angewendet.
+386	Enthaltener Preis und Vergleichskostenrisiko
+387	Vergleichskostenrisiko +
+388	Welche Annahme beeinflusst den Preis? Angebotspreisänderungen um null.
+389	Annahme
+390	Schritt nach unten
+391	Schritt nach oben
+392	Welche Annahme beeinflusst den Preis?
+393	Preissensitivität wird berechnet…
+394	Preissensitivität konnte nicht geladen werden.
+395	Erneut versuchen
+396	Für diese Revision liegen keine Sensitivitätsergebnisse vor.
+397	Die ersten 5 anzeigen
+398	Alle {0} anzeigen
+399	Kostenbasis
+400	Gespeicherter berechneter Gesamtbetrag
+401	Angebotspreis
+402	Kostenaufbau und endgültiger Angebotspreis {0}. Zwischensummen können sich überschneiden; nicht alle Zeilen addieren.
+403	Schritt
+404	Formel
+405	Kostenaufbau mit Endbetrag {0}
+406	Endgültiger Angebotspreis
+407	Der Kostenaufbau kann Zwischensummen enthalten. Die obigen Summen stammen aus der gespeicherten Kalkulation.
+408	Für den Import historischer Datensätze ist eine Begründung erforderlich.
+409	Historische Nachweise und Kapazität
+410	Verwenden Sie echte Vergleichsprojekte und geprüfte Kapazitätsangaben. Fehlende Daten bleiben fehlend.
+411	Kaufmännische Nachweise werden geladen…
+412	Historische Angebote aus CSV importieren
+413	Erforderliche Spalten:
+415	. Ergebnisse: won, lost, unknown. Für den finanziellen Vergleich sind nur CHF-Datensätze zulässig.
+416	Optional: project_date, scope_description, estimated_baseline, winning_price, installation_hours. Es erfolgt keine automatische Währungsumrechnung oder Umfangsbereinigung.
+417	CSV historischer Angebote
+418	gültige Datensätze
+419	Duplikate ·
+420	Fehler
+421	Importfehler beheben
+422	Doppelte Datensätze
+423	Vorschau des historischen Imports
+424	Datensatz / Projekt
+425	Angebot
+426	Ergebnis
+427	Angezeigt werden die ersten 20 Vorschauzeilen von
+428	Begründung des historischen Imports
+429	Quelle und Relevanz dieser Datensätze
+430	Geprüfte Datensätze importieren
+431	Vergleichbare Projekte
+432	Es wurden noch keine historischen Angebote importiert. Szenariowahrscheinlichkeiten bleiben vorgegebene Heuristiken.
+433	Wählen Sie Datensätze mit vergleichbarem Leistungsumfang. Die Auswahl allein ändert weder Wahrscheinlichkeit noch Referenzpreis.
+434	Historische Vergleichsprojekte auswählen
+435	Auswählen
+436	Projekt / Leistungsumfang
+437	Eigenes Angebot
+438	Basis
+439	Vergleichsprojekt {0} verwenden
+440	Datum nicht angegeben
+441	Leistungsbeschreibung nicht angegeben
+442	{0} {1} · ausgeschlossen
+443	Nicht angegeben
+444	ausgewählt ·
+445	geeignet
+446	gewonnen ·
+447	verloren ·
+448	unbekannt
+449	Datensätze
+450	Keine verwendbaren Ergebnisse
+451	Keine verwendbaren Preispaare
+452	Die Statistik beruht auf der gespeicherten Auswahl. Unbekannte Ergebnisse sind von der Zuschlagsquote ausgeschlossen. Eine kleine oder unähnliche Stichprobe ist keine kalibrierte Prognose.
+453	Beobachtete Zuschlagsquote als Referenzwahrscheinlichkeit für Szenarien übernehmen
+454	Median des Verhältnisses von Vergleichsangebot zu Kostenbasis als Referenzpreisgrundlage übernehmen
+455	Begründung der historischen Übernahme
+456	Bei Übernahme einer historischen Kennzahl erforderlich. Erläutern Sie die Vergleichbarkeit des Umfangs und die Einschränkungen.
+457	Montagekapazität
+458	Kapazität für den geplanten Montagezeitraum erfassen. Die Kapazität ändert Preise oder Wahrscheinlichkeiten nicht automatisch.
+459	Beginn des Kapazitätszeitraums
+460	Ende des Kapazitätszeitraums
+461	Verfügbare Montagestunden
+462	Bei Stundenangaben sind Beginn und Ende des Zeitraums erforderlich.
+463	Bereits gebundene Stunden
+464	Geben Sie ausdrücklich 0 ein, wenn keine Verpflichtungen bestehen.
+465	Nicht beurteilt
+466	Die Lohnabdeckung ist unvollständig. Der bekannte Bedarf unterschätzt den Gesamtbedarf; ein angezeigtes Defizit von null belegt keine ausreichende Kapazität.
+467	Begründung der kaufmännischen Änderung
+468	Warum diese Vergleichswerte oder Kapazitätsangaben gelten
+469	Beim Speichern entsteht eine Revision mit den für Exporte verwendeten Nachweisen und Eingaben.
+470	Wird gespeichert…
+471	Kaufmännischen Kontext speichern
+472	Importierte Quelldateien
+473	Historische CSV
+476	Wird geladen…
+478	Dialog schliessen
+479	Fehlende Menge
+480	Fehlende Materialreferenz
+481	Fehlende Montageregel
+482	Technischer Widerspruch
+483	Offerte erforderlich
+484	Preis eines ähnlichen Katalogartikels wartet auf Freigabe
+485	Nicht zugeordnet
+486	Ändern Sie mindestens einen Wert oder bestätigen Sie die Prüfung, um eine Prüfentscheidung zu erfassen.
+487	Position prüfen
+488	Änderungen erstellen eine nachvollziehbare Revision und berechnen die Kalkulation neu.
+489	Beschreibung
+490	Anlage
+491	Menge
+492	Leer lassen, wenn die Menge unbekannt ist.
+493	Einheit
+494	Unbekannt
+495	Preisreferenz
+496	Kein Produkt ausgewählt
+497	Montageregel
+498	Keine Regel ausgewählt
+499	Prüfstatus
+500	Ausstehend
+501	Bestätigt
+502	Abgelehnt
+503	Technische Gleichwertigkeit
+504	Ungeprüft
+505	Durch Prüfer bestätigt
+506	Nicht kompatibel
+507	Optionale Preisüberschreibungen
+508	Netto-Einzelkosten · CHF
+509	Aus Referenz
+510	Lohnsatz · CHF/h
+511	Aus Regel
+512	Materialverschnitt · %
+513	Projektannahme
+514	Montagefaktoren und Kostenzuordnung
+515	Leer übernimmt die Projektannahme.
+516	Behandlung des Leistungsumfangs
+517	Ausschlüsse erfordern eine Begründung und bleiben in der Kalkulation nachvollziehbar.
+518	Aktuelles Ergebnis:
+519	Kostenträger
+520	Positions-ID oder project:commissioning, project:documentation usw. Leer bedeutet Zuordnung zu dieser Position.
+521	Im Paket enthaltene Leistungen
+522	Kommagetrennte Leistungen: installation, transport, small_material, supplier_contingency, commissioning, documentation.
+523	Paketeinschlüsse verhindern doppelte Kosten. Die Berechnung prüft Zuordnung und Überschneidungen.
+524	Begründung dieser Änderung
+525	Erläutern Sie den Nachweis oder die kaufmännische Annahme hinter dieser Entscheidung.
+526	Wird neu berechnet…
+527	Speichern und neu berechnen
+528	Position aus Nachweisen hinzufügen
+529	Fehlenden Leistungsumfang ergänzen und die Originalquelle erhalten.
+530	DEUTSCHER ORIGINALNACHWEIS · SEITE
+531	Unbekannte Mengen bleiben unbepreist.
+532	Werte ohne Grundlage in den ausgewählten Nachweisen werden als manuelle Annahmen erfasst.
+533	Möglicherweise vorhandene Positionen
+534	Dies ist eine beabsichtigte Aufteilung oder separate Leistung. Meine Begründung erläutert den Grund.
+535	Begründung für diese zusätzliche Position
+536	Position wird hinzugefügt…
+537	Hinzufügen und berechnen
+538	Projektannahmen
+539	Diese Eingaben bestimmen den Kostenaufbau. Jede Änderung erzeugt eine Revision.
+540	Zuschlagsgrundlagen sind bearbeitbare Prototypannahmen. Höhenfaktoren für Schule und Sporthalle gelten für den jeweiligen Leistungsumfang.
+541	Offerte erforderlich
+542	Äquivalente Fläche
+543	Aus
+544	Ein
+545	Begründung der geänderten Annahmen
+546	Anwenden und neu berechnen
+547	Kaufmännische Anpassung bearbeiten
+548	Neue kaufmännische Anpassung
+549	Nur freigegebene Anpassungen beeinflussen die Kalkulation. Unbelegte Einsparungen werden niemals erzeugt.
+550	Typ
+551	Risikozuschlag · Kosten erhöhen
+552	Chance · Kosten reduzieren
+553	Betrag · CHF
+554	Titel
+555	Zum Beispiel Geräte für erschwerten Zugang
+556	Betroffener Leistungsumfang
+557	Grundlage und Nachweise
+558	Beschreiben Sie die Nachweise und die Ermittlung dieses Betrags.
+559	Klärung von Leistungsüberschneidungen
+560	Falls markiert, erläutern Sie den Unterschied zu bestehenden Zuschlägen genau. Andernfalls leer lassen.
+561	Begründung
+562	Bestehende Lieferantenreserven und Projektzuschläge dürfen nicht erneut berechnet werden.
+563	Die Bearbeitung setzt diese Anpassung auf ausstehende Prüfung zurück.
+564	Als ausstehend speichern
+565	Betrag:
+566	Begründung dieser Entscheidung
+567	Entscheidung bestätigen
+568	Nebenräume
+569	Speiseräume
+570	Küche
+571	Klassenzimmer
+572	Sporthalle
+573	Dachaufständerungen
+574	Nicht zugeordnete Leistungen
+575	Geräte
+576	Lieferantenpakete
+577	Luftkanäle
+578	Position / Beschreibung
+579	Hinzugefügt
+580	Direkte Kosten
+582	Vorläufig · Lieferantenofferte erforderlich
+583	Bekannt:
+584	Material {0}
+585	Lohn {0}
+586	Geprüft
+587	Quelle
+588	Quellseite {0} anzeigen
+591	KALKULATIONS-ARBEITSBEREICH
+592	Prüfen. Entscheiden. Begründen.
+593	Positionen · Originalnachweise immer mit einem Klick erreichbar
+594	Prüfansicht schliessen
+596	Alle Anlagen
+597	Nachweise bleiben verknüpft.
+598	Prüfen Sie eine Position, um Quelle, Berechnung und Entscheidungsverlauf einzusehen.
+599	Kalkulation durchsuchen
+600	Positionen, Produkte suchen…
+601	Suche löschen
+603	Prüfung erforderlich
+604	Tabellendichte
+605	Kompakt
+606	Komfortabel
+607	Flächenpreisregel anwenden auf
+608	Zeilen
+610	Material- und Lohnspalten anzeigen
+611	Detailspalten umschalten
+612	in {0}
+613	Prüfursache
+614	Nach Prüfursache filtern
+615	Alle Ursachen
+616	Nach Ergebnis filtern
+617	Alle Ergebnisse
+618	Keine passenden Positionen
+619	Versuchen Sie eine andere Suche oder entfernen Sie die Filter.
+620	von
+621	j/k oder ↑/↓ auswählen · Enter prüfen · Esc schliessen · a Prüfung bestätigen
+622	Vorherige Positionsseite
+623	Nächste Positionsseite
+624	NACHWEISPRÜFUNG
+625	Quellseite {0}
+626	Nachweisprüfung schliessen
+627	Breite der Prüfansicht
+628	Quellansicht wird geladen…
+629	Die ursprüngliche Extraktion
+630	Für diese Position wurden noch keine Kalkulatoränderungen erfasst.
+631	Vorher / nachher prüfen
+632	Diese Änderung rückgängig machen
+633	Bearbeiten
+634	Prüfung bestätigen
+635	Flächenpreisregel auf {0} Zeilen anwenden?
+636	Prüfen Sie die direkte Kostenwirkung jeder betroffenen Position. Formteile bleiben unbepreist. Diese Entscheidung ist rückgängig zu machen.
+637	Preiswirkung je Zeile wird berechnet…
+638	Position
+639	Material Δ
+640	Lohn Δ
+641	Änderung direkter Kosten
+642	Stunden Δ
+643	Unter dieser Regel gibt es keine bepreisten Änderungen.
+644	Begründung für die Anwendung dieser Preisregel
+645	Flächenpreisregel bestätigen
+646	· Manuell hinzugefügt
+647	Menge und Quelle
+648	Nicht erfasst
+649	PDF-Geometrie: 2 × (
+650	) mm ×
+651	mm ÷ 1,000,000
+652	× {0} Formteil-Flächenfaktor (Projektannahme)
+653	nur vorläufige Mengenermittlung; Materialpreis bleibt ungeklärt.
+654	vorläufiger Flächenpreis; Geometrie und Lieferumfang prüfen.
+655	bepreiste Fläche.
+656	Seite
+657	Spezifikation umfasst Seiten {0}–{1}
+658	Technische Merkmale und Umrechnungen
+659	Nicht angegeben
+660	Produktpreisreferenz
+661	Keine Referenz ausgewählt
+662	Vorläufige Lieferantenreferenz aus catalog.csv. Holen Sie eine aktuelle Offerte ein und prüfen Sie Hersteller, Spezifikation und Umfang vor Verwendung dieses Preises.
+663	Nicht spezifiziert
+664	Eine Preisreferenz belegt keine freigegebene technische Gleichwertigkeit.
+666	pro
+667	Material:
+668	m²-Äquivalent
+669	% Verschnitt) =
+670	Materialkosten
+671	Montagelohn
+672	Fehlend
+674	Ungeklärt
+675	Lohn:
+676	h (ungerundet) ×
+677	. Basis:
+678	; Faktoren aus Projektannahmen sind oben aufgeführt.
+679	Lohnkosten
+680	Direkte Positionskosten
+681	Für diese Position sind Teilkosten bekannt. Die vollständigen direkten Kosten bleiben ungeklärt; bekannte Material- und Lohnanteile sind in der Kalkulation enthalten.
+682	Erfasste Annahmen
+683	Prüfpunkte der Position
+684	Kostenumfang gehört zu
+685	; hier ausgeschlossen, um Doppelzählung zu vermeiden.
+686	Erfasste Details
+687	Ja
+688	Nein
+689	Kaufmännischer Kontext
+690	Keine angezeigten Felder geändert. Vollständige Revisionsdaten stehen im JSON-Export zur Verfügung.
+691	In Prüfung
+692	Angebote nach Status
+693	Statusdiagramm anzeigen
+694	Statustabelle anzeigen
+695	Status
+696	Angebote
+697	Angebotswert
+698	Angebote nach Status: {0} Angebote
+699	{0}: {1} Angebote, {2}%, {3}
+700	Angebote ·
+701	Angebote gesamt
+702	Keine Angebote
+703	{0} · {1} Angebote · {2}
+704	Segment mit Maus oder Tastatur auswählen, um den Angebotswert zu sehen
+705	Angebote werden aktualisiert…
+706	Angebotspipeline
+707	Angebote konnten nicht aktualisiert werden:
+708	Angebote Ihrer Organisation werden geladen…
+709	Preise, Abdeckung und Prüfungen aller Angebote werden vorbereitet.
+710	MANAGEMENT
+711	Wählen Sie ein Angebot, um dessen vollständigen Prüfverlauf einzusehen.
+712	Pipeline-Wert
+713	Durchschnittliche Zielmarge
+714	Durchschnittlicher bepreister Wertanteil
+715	Offene Prüfungen
+716	Pipeline nach Kalkulator
+717	Marge und bepreister Wertanteil
+718	Preisspanne je Angebot
+719	ANGEBOTSREGISTER
+721	Alle Status
+722	Projekt
+723	Angebot
+724	Prüfungen
+725	Aktualisiert
+726	Prüfverlauf
+727	Öffnen
+728	Prüfverlauf · {0}
+729	Ausgewähltes Angebot
+730	{0} · Revision {1} · aktualisiert {2}
+731	Erfasste Änderungen für das ausgewählte Angebot.
+732	Prüfverlauf wird geladen…
+733	Prüfverlauf konnte nicht geladen werden:
+734	Änderungen
+735	· Revision
+736	Für dieses Angebot wurden keine Änderungen erfasst.
+737	Varianten zum Vergleich von Kalkulatoren erstellen
+738	Duplizieren
+739	Prüfprioritäten
+740	{0} Prüfpunkte
+741	Kosten und Angebotspreis
+742	Leistungsumfang nach Anlage
+743	{0} Gruppen
+744	Anforderungen
+745	{0} Anforderungen
+746	Risiken
+747	{0} Anpassungen
+748	PROJEKTANALYSE
+749	Jede Zahl. Durch Nachweise belegt.
+750	Ihre Erstkalkulation mit allen Grundlagen für fundierte Entscheidungen.
+751	Annahmen anpassen →
+752	RICHTPREIS FÜR ERFASSTEN UMFANG
+753	% des geschätzten Werts abgedeckt
+754	KALKULATIONSENTWURF
+755	Nur enthaltener Umfang ·
+756	Lieferantenreferenzen (
+757	direkt) warten auf Offerten
+758	Kostenbasis
+759	CHF · ohne MwSt.
+760	bepreist ·
+761	anderweitig enthalten ·
+762	ungeklärt
+763	Prüfung für enthaltenen Umfang abgeschlossen
+764	Prüfung durch Kalkulator erforderlich
+765	Kalkulation öffnen
+766	Indikative Gesamtprojektspanne
+767	Vergleichswert
+768	Vergleichskostenrisiko
+769	⇒ Gesamtbetrag nach kaufmännischen Annahmen
+770	Medianmarkierung = enthaltener Preis + Zuschlag für ungeklärte Leistungen · nur Vergleichswert
+771	Vergleichszuschläge prüfen
+772	Dokumentabdeckung
+773	Teilweise extrahiert
+774	Eingelesen
+775	In Bearbeitung
+776	Seiten
+777	Text ohne Positionszuordnung
+778	fehlgeschlagen ·
+779	teilweise
+780	Seitenergebnisse prüfen
+781	Ausstehende Prüfungen
+782	Bearbeitbare Kalkulator-Prüfliste
+783	Bepreiste Positionen
+784	Offerten ausstehend
+785	{0} nutzen Lieferantenreferenzen; Offerten ausstehend
+786	Ungeklärte Positionen
+787	Nach geschätzter Auswirkung priorisiert
+788	Erkannte Positionen
+789	Aktuelle Kalkulation · {0} vom Kalkulator hinzugefügt
+790	Was jetzt Ihre Entscheidung braucht
+791	Punkte verringern die Sicherheit der Kalkulation. Beginnen Sie mit den grössten Lücken.
+792	Übersichtsdetails
+793	Analysen öffnen
+794	Kosten und Leistungsumfang untersuchen
+795	Kalkulationsdetails
+796	Alle Details Ihrer gespeicherten Kalkulation prüfen.
+797	Transparente Eingaben. Deterministische Berechnungen.
+798	Kostenannahmen bearbeiten
+799	Indikative Gesamtumfangsspanne (Vergleichswert, kein Angebot)
+800	Aufschlüsselung des Leistungsumfangs
+801	Eine Kalkulation, zwei Perspektiven.
+803	· {0} unbepreist
+804	Keine bepreisten Kosten
+805	Material ·
+806	Lohn
+807	Stimmt mit der Kostenbasis überein
+808	Unklare Leistungen vor einer kaufmännischen Verpflichtung klären.
+809	Alle
+810	Keine offenen Prüfpunkte
+811	Positionsfreigaben und unbepreiste Leistungen bleiben in der Kalkulation sichtbar.
+813	Quellverweise ·
+814	Weniger Prüfpunkte anzeigen
+815	Alle {0} Prüfpunkte anzeigen
+816	Risiko- und Chancenregister
+817	Kaufmännische Beurteilung, ausdrücklich dokumentiert. Nur freigegebene Einträge beeinflussen die Kalkulation.
+818	Anpassung hinzufügen
+819	Keine zusätzlichen kaufmännischen Anpassungen
+820	Bestehende Zuschläge sind bereits enthalten. Fügen Sie ein belegtes Risiko oder eine Chance hinzu, wenn die Nachweise dies rechtfertigen.
+821	CHF 0 zusätzlich
+822	Anpassung
+823	Betrag
+824	Umfang / Grundlage
+825	Freigabe
+826	Aktionen
+827	Anpassung bearbeiten
+828	{0} bearbeiten
+829	{0} freigeben
+830	Anpassung freigeben
+831	Anpassung ablehnen
+832	{0} ablehnen
+833	Freigegebene Risiken
+834	Keine
+835	Freigegebene Chancen
+836	Ausstehende Nettovorschau
+837	Ausschreibungsanforderungen
+838	Pflichten und Einschränkungen aus der Quelle bewahrt.
+839	erkannt
+840	Weniger Anforderungen anzeigen
+841	Alle {0} Anforderungen anzeigen
+842	Keine Ausschreibungsanforderungen erkannt
+843	Lokaler Arbeitsbereich · Revision
+844	Verarbeitet {0}
+845	Prüfbarer Entwurf
+846	· Quelldokumente bleiben unverändert
+847	Ergebnisse der Seitenverarbeitung
+848	Verarbeitete Seiten können ungeklärte Blöcke enthalten. Dies ist keine Vollständigkeitsgarantie.
+849	Prüfen Sie diese Blöcke und ergänzen Sie fehlende Positionen anhand der Quelle.
+850	Seite prüfen
+851	Einlesen
+852	Extraktion
+853	Hinweise
+854	Vergleichszuschlag für unbepreiste Leistungen
+855	Orientierungsschätzung für ungeklärte Leistungen. Sie ergänzt oder ändert keine Positionen und ist nicht im Angebot enthalten.
+856	Vergleichskostenrisiko:
+857	(Median
+858	unbepreiste Positionen haben eine bekannte Menge und passende Montagegruppe. Der Vergleich nutzt Preise derselben Gruppe und Einheit; bekannte Teilkosten werden abgezogen.
+859	{0} Positionen haben keine Vergleichsbasis und sind vom Wertanteil ausgeschlossen.
+860	Dieser Zuschlag wird
+861	nie automatisch hinzugefügt
+862	zur Kostenbasis. Sie können ihn über das Risiko- und Chancenregister als Risikozuschlag übernehmen.
+864	Unbepreiste Positionen mit Vergleichsbasis
+865	Unbepreiste Positionen ohne Vergleichsbasis
+866	Bekannte direkte Kosten einschliesslich Teilkosten und Dienstleistungen
+867	Bekannte Kosten ÷ (bekannte Kosten + Vergleichslücke)
+868	Vergleichseinheitspreise nach Gruppe
+869	Montagecode
+870	Bepreiste Stichprobe
+871	P25-Preis
+872	Medianpreis
+873	P75-Preis
+874	Nachvollziehbare Referenzpositionen
+875	+{0} weitere
+876	Grösste unbepreiste Positionen und Vergleichszuschläge
+877	Referenz
+878	Einheitspreis
+879	Median-Zuschlag
+880	Grundlagenstatus
+881	Zugeordnet (
+882	Referenzen)
+883	Menge fehlt
+884	Keine Gruppenbasis
+885	Diesen Umfang in das Angebot aufnehmen? Als Risikozuschlag übernehmen.
+886	Vergleichszuschlag für unbepreisten Umfang ({0} Positionen)
+887	Median der Vergleichseinzelkosten aus {0} Montagegruppen ({1} unbepreiste Positionen). Spanne CHF {2} bis CHF {3}.
+888	Zusätzlicher Vergleichszuschlag für unbepreisten Ausschreibungsumfang
+889	Median als Risikozuschlag übernehmen (
+891	PDF-Ladeaufgabe ist nicht verfügbar
+892	Diese PDF-Seite kann im Browser nicht dargestellt werden.
+893	Vorherige PDF-Seite
+894	PDF-Seite
+895	Nächste PDF-Seite
+896	Verkleinern
+897	Vergrössern
+898	Original-PDF öffnen
+899	Nachweis auf der Seite auswählen, um eine Position hinzuzufügen
+900	Scrollbares Quelldokument
+901	Quellseite wird dargestellt…
+902	Quellseite wird dargestellt…
+903	Nachweis auswählen: {0}
+905	QUELLTEXT · SEITE
+906	Klicken Sie oben auf einen Quellbereich, um dessen Originaltext zu prüfen.
+907	Position aus Auswahl erstellen
+908	Geben Sie vor der Annahme oder Ablehnung eines Vorschlags eine Begründung ein.
+909	Positionsvorschläge
+910	Vorschläge zur Freigabe durch den Kalkulator
+911	Ausstehende Vorschläge ändern die Kalkulation nicht. Die Annahme einer Preisreferenz bestätigt keine technische Gleichwertigkeit.
+912	Begründung der Vorschlagsentscheidung
+913	Dokumentieren Sie die Grundlage der Preisannahme oder Extraktionskorrektur.
+914	Quellzeilen / Nachweise
+915	Quellzeile
+916	angefügt auf PDF-Seite
+917	. Öffnen Sie die Quellansicht, um die Markierung zu prüfen.
+918	Vorschau bei Annahme
+919	Erfasste Begründung:
+920	Ähnlichen Katalogpreis freigeben
+921	Katalogvorschlag ablehnen
+922	KI-Präzisierung der Extraktion
+923	Korrektur annehmen
+924	Korrektur ablehnen
+925	KAUFMÄNNISCHE PERSPEKTIVE
+926	Eine Spanne. Mit Begründung.
+927	Prüfen Sie den Preis des enthaltenen Umfangs unter ausdrücklich definierten kaufmännischen Annahmen.
+928	EMPFOHLENE ANGEBOTSSPANNE
+929	Indikativer Preis (Zielmarge
+930	%, project_parameters.commercial)
+931	· Szenariomargen aus project_parameters.stretch_bid_optimization: Aggressiv 2.5% / Ziel 4.0% / Konservativ 6.5%
+932	Welche Annahme beeinflusst den Preis?
+933	Vergleichen Sie die Preissensitivität und wählen Sie eine Annahme, um ihre Wirkung zu untersuchen.
+934	Live-Annahmen
+935	Annahmen anpassen
+936	Regler bewegen. Alle drei Strategien live vergleichen.
+937	Preis und illustrative Zuschlagswahrscheinlichkeit
+938	VERKAUFSPREIS IN DER VORSCHAU
+939	AKTUELLER VERKAUFSPREIS
+940	Ungespeicherte Vorschau
+941	Gespeichertes Angebot
+942	% Zielmarge · Revision
+943	Gespeicherter Preis
+944	· Änderung
+945	Szenario-Angebotsspanne · Margen unten angezeigt
+946	Vorschau mit den Steuerelementen links übernehmen oder zurücksetzen.
+947	Mit den Steuerelementen links Änderungen in der Vorschau prüfen.
+948	Nur enthaltener Umfang.
+949	Positionen bleiben unbepreist.
+950	EMPFOHLENE ANGEBOTSSPANNE FÜR ENTHALTENEN UMFANG
+951	Szenariospanne · Margenannahmen sind bei jedem Angebotspreis angegeben
+952	Auf Grundlage einer Kostenbasis von
+953	. Annahmenbasierte Angebotsspanne für den enthaltenen Umfang. Ungeklärte und unbepreiste Leistungen sind ausgeschlossen.
+954	Gespeicherter Richtpreis bei Revision
+955	Lieferantenreferenzpreise (
+956	direkt) warten auf Offerten.
+957	Illustratives Szenariomodell
+958	Wahrscheinlichkeiten sind illustrativ, keine kalibrierten Prognosen. Historische Datensätze beeinflussen Ergebnisse erst nach ausdrücklicher Übernahme unten. Die Szenarien unterstützen die Beurteilung des Kalkulators; sie bestimmen kein optimales Angebot.
+959	Referenz des Zuschlagswahrscheinlichkeitsmodells
+960	REFERENZPREIS
+961	Standard aus project_parameters.json · Kostenbasis ÷ (1 − Marge):
+962	REFERENZMARGE
+963	Standard aus project_parameters.json:
+964	Referenzmarge überschrieben:
+965	% (Standard
+966	Referenzpreis weicht vom Paketstandard ab:
+967	gegenüber
+969	Am nächsten am gespeicherten Richtpreis
+970	Angebotspreis ·
+971	% Marge
+972	Illustrative Zuschlagswahrscheinlichkeit
+973	Begründung dieser Empfehlung
+974	Preisvergleich zur Referenz nicht verfügbar;
+975	Angebot liegt {0}{1}% gegenüber der Referenz;
+976	erreichte Marge
+977	%, illustrative Zuschlagswahrscheinlichkeit
+978	erwarteter Deckungsbeitrag
+979	Als Angebotspreis verwenden
+980	Preissensitivität
+981	Szenarioannahmen · Kaufmännischer Kontext
+982	Zuschlagswahrscheinlichkeiten sind illustrativ, keine kalibrierten Prognosen.
+983	{0} · {1} · {2}% Zielmarge
+984	Begründung für diesen Angebotspreis
+985	Angebotspreis bestätigen
+986	Szenarioannahmen und kaufmännischer Kontext
+987	Modelleingaben und Nachweise prüfen. Änderungen erfordern vor dem Speichern eine Begründung.
+988	Szenarioannahmen
+989	Annahmen zunächst prüfen und dann eine Revision speichern, damit die angezeigten Szenarien und die exportierte Kalkulation übereinstimmen.
+990	Gespeicherte Szenarien wiederherstellen
+991	Aggressiv
+992	Ziel
+993	Konservativ
+994	Freigegebene historische Nachweise bestimmen
+995	die Referenzwahrscheinlichkeit
+996	und
+997	den Referenzpreis
+998	. Ändern Sie unten die Übernahmeeinstellungen, um zu manuellen Annahmen zurückzukehren.
+999	{0} Marge · %
+1000	Referenzmarge (%)
+1001	Bestimmt den Referenzpreis für den Vergleich der Szenarioangebote.
+1002	Referenz-Zuschlagswahrscheinlichkeit
+1003	Eine Wahrscheinlichkeit von 0 bis 1, kein Prozentwert.
+1004	Wahrscheinlichkeitspunkte je 1% relativer Preisabweichung.
+1005	Anpassung des strategischen Risikoappetits
+1006	Wettbewerbsanpassung
+1007	Alle finanziellen Ergebnisse werden vom Server berechnet.
+1008	Wird berechnet…
+1009	Szenarien neu berechnen
+1010	Ungespeicherte Vorschau. Exporte verwenden weiterhin Revision
+1011	. Speichern Sie diese Annahmen, um den Szenariovergleich in die Übergabe aufzunehmen.
+1012	Begründung der Szenarioänderung
+1013	Kaufmännische Grundlage dieser Annahmen
+1014	Wird gespeichert?
+1015	Szenarien in Revision speichern
+1016	Positionen bleiben unbepreist und
+1017	Prüfungen sind ausstehend. Die Spanne umfasst nur enthaltene Leistungen.
+1018	Vollständiges Prüfpaket
+1019	Kalkulation, Nachweise, Annahmen und Lieferantenfragen in einem Archiv.
+1020	Angebotsentwurf · Deutsch
+1021	Druckfertige Kalkulation mit ungeklärten Leistungen und Quellverweisen.
+1022	Positionstabelle
+1023	Strukturierte Positionen, Kosten, Mengen und Prüfergebnisse.
+1024	Berechnung und Nachweise
+1025	Maschinenlesbare Revision, Berechnungseingaben und Prüfnachweise.
+1026	Entwürfe für Lieferantenanfragen
+1027	Offene Mengen, Spezifikationen und Offertfragen.
+1028	KALKULATIONSÜBERGABE
+1029	Der Preis. Und die Nachweise.
+1030	Eine feste Revision mit zugehöriger Begründung exportieren.
+1031	Kalkulationsentwurf — Prüfung ausstehend
+1032	% der Positionen bepreist
+1033	bepreist /
+1034	anderweitig enthalten /
+1035	unbepreist ·
+1036	Zuschlag für unbepreiste Leistungen:
+1037	Zeilen ohne Vergleichsbasis; nicht enthalten)
+1038	unbepreiste Positionen ·
+1039	ausstehende Prüfungen ·
+1040	Seiten verarbeitet
+1041	RICHTPREIS
+1042	Jeder Export enthält seine Revision, die Preisabdeckung, den Vergleichszuschlag für unbepreiste Leistungen und den Entwurfsstatus. Der Export markiert die Kalkulation nicht als geprüft.
+1044	EMPFOHLENE ÜBERGABE
+1045	Wird vorbereitet…
+1046	Druckbaren Entwurf öffnen
+1047	Herunterladen
+1048	Unveränderlicher Revisionsexport wird vorbereitet…
+1049	Vorbereitete Downloads
+1050	Entscheidungsverlauf
+1051	Jede Änderung hat einen Verantwortlichen, eine Begründung und eine finanzielle Wirkung.
+1052	Entscheidung
+1053	Für dieses Projekt wurden noch keine Kalkulatoränderungen erfasst.
+1054	Revision / Datum
+1055	Entscheidung
+1056	Preisänderung
+1057	Bearbeiter
+1058	Aktion
+1059	Rev.
+1060	Werte prüfen
+1061	Rückgängig
+1062	Kostenzuordnung und Annahmen
+1063	Kostenzuordnung ·
+1064	Einträge
+1065	verknüpfte Position
+1066	Dem Kostenträger zugeordnet
+1067	Berechnungsannahmen ·
+1068	Erfasste Projektannahme
+1069	Die formelle Einreichung im Vergabeverfahren ist nicht Teil dieses Prototyps.
+1070	Baustelleneffizienz
+1071	Montagehöhe · Schule
+1072	Montagehöhe · Sporthalle
+1073	Schullogistik
+1074	Holzbau-Schnittstelle
+1075	Basis-Montagestunden ÷ dieser Faktor · Projektparameter
+1076	Multipliziert Stunden nur dort, wo die Montageregel dies vorsieht
+1077	Multipliziert Stunden für zutreffende Sporthallenpositionen
+1078	±CHF 0 · unverändert
+1079	±0 h · unverändert
+1080	Diese Kalkulation hat eine neuere Revision. Aktualisieren Sie die Seite vor Übernahme der Vorschau.
+1081	LIVE-KALKULATION · REVISION
+1082	Was ändert sich, wenn Sie den Plan anpassen?
+1083	Ändern Sie einen Regler. Prüfen Sie die Neuberechnung für diese Revision, bevor Sie speichern.
+1084	Vorschau bereit
+1085	Keine ausstehende Vorschau
+1086	Baustellenproduktivität
+1088	Material und kaufmännische Angaben
+1089	Materialverschnitt
+1090	Materialmenge × Katalog- oder Lieferantenpreis × (1 + Verschnitt) · Projektparameter
+1091	Gemeinkosten
+1092	Angepasste direkte Kosten × Gemeinkostensatz · Projektparameter
+1093	Zielmarge
+1094	Verkaufspreis = Kostenbasis ÷ (1 − Marge), auf das konfigurierte CHF-Inkrement aufgerundet
+1095	Lohnsätze
+1096	Jeder Satz beginnt mit dem Rollenstandard aus productivity.csv. Lohnkosten = ungerundete Stunden × CHF/h.
+1098	Bearbeitbarer Rollensatz · gilt für passende Montageregeln
+1100	Neuberechnung
+1101	gegenüber aktuellem Angebot
+1102	Passen Sie einen Regler an, um die Preiswirkung zu prüfen.
+1103	Vorschau in
+1104	ms · keine Revision gespeichert
+1105	Montagestunden
+1106	Änderungen der Szenarioangebote
+1107	Alle drei Angebotsszenarien
+1108	aktuell → Vorschau
+1109	Am stärksten betroffene Positionen
+1110	direkte Kosten
+1111	Keine direkten Positionskosten geändert. Rein kaufmännische Änderungen wirken sich über die Projektkostenbasis aus.
+1112	Anlagen
+1113	Keine Montageanlage verändert.
+1114	Kalkulation wird neu berechnet…
+1115	Bewegen Sie einen Regler, um Änderungen an Material, Lohn, Kostenbasis, Angebot und Szenarien zu sehen.
+1116	Begründung dieser Annahmenänderung
+1117	z. B. geänderter Zugangsplan mit dem Baustellenteam bestätigt
+1118	Zurücksetzen
+1119	Wird angewendet…
+1120	Mit Begründung anwenden
+1121	Anwenden speichert alle vorgemerkten Werte als eine Revision. Zurücksetzen verwirft die Vorschau.
+1122	Prüfung ausstehend
+1123	MEIN ARBEITSBEREICH
+1124	Ihre Projekte
+1125	Projekte. Wählen Sie ein Projekt, um weiterzukalkulieren.
+1126	Neues Projekt
+1127	Ihre Projekte durchsuchen
+1128	Projekte suchen…
+1129	Projekte nach Status filtern
+1130	Ihre Projekte werden geladen…
+1131	Kalkulation wird geöffnet…
+1133	Ausschreibungsprojekt
+1134	Keine passenden Projekte
+1135	Ihre erste Kalkulation starten
+1136	Versuchen Sie einen anderen Suchbegriff oder Statusfilter.
+1137	Fügen Sie eine Ausschreibung hinzu, um ein Projekt in Ihrem Arbeitsbereich zu erstellen.
